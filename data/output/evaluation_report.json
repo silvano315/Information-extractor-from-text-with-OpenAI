@@ -1,0 +1,1823 @@
+{
+  "entity_metrics": {
+    "entity_precision": 0.7734880952380953,
+    "entity_recall": 0.8665833333333333,
+    "entity_f1": 0.811960705960706,
+    "role_precision": 0.7237756132756132,
+    "role_recall": 0.7689437229437229,
+    "role_f1": 0.7410468942392318
+  },
+  "topic_metrics": {
+    "topic_accuracy": 0.975,
+    "subtopic_accuracy": 0.97,
+    "total_matched": 200,
+    "topic_details": [
+      {
+        "article_id": "0142e7ab-2349-4098-9c74-59b01adc53b5",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "dfda542f-35f9-4d9d-a919-e242de64f173",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "5b4f5864-2baa-436d-bcb5-114ccfd907d1",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "778abe7e-3d28-4710-931b-f277190db03b",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Natural Disaster",
+        "gt_subtopic": "Natural Disaster",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6f3999bf-22a8-4f8e-b1e4-c4a9b65cf672",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c1d30eb2-5555-40bf-af7f-37e4f9a57f42",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Drug Trafficking",
+        "gt_subtopic": "Fraud",
+        "topic_match": true,
+        "subtopic_match": false
+      },
+      {
+        "article_id": "0793ac90-686d-4050-8e18-68551040d3d1",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6dbdaaf8-b04f-4e66-9c47-5a3a9e45c69f",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Unemployment",
+        "gt_subtopic": "Unemployment",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "81516984-ad32-4255-b595-acd935bde972",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "3c35dac8-779b-4f2e-a54f-192a6027cc81",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Cybersecurity",
+        "gt_subtopic": "Cybersecurity",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "1ac4a5c6-0574-4e7c-a404-1ac2727e3b85",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ea330a23-c6a3-4e3d-8ce7-50811d56944c",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "a72d5548-ee4f-482c-88a8-668943db7f9e",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Gadgets",
+        "gt_subtopic": "Gadgets",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "aef1cb78-e33a-4ad5-bad4-d80d87ff9336",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Climate Change",
+        "gt_subtopic": "Climate Change",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6ede7871-a4f1-4b60-a3f5-4215b092a1fc",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "f6e6759e-482b-4d99-bca1-271874f3c38f",
+        "pred_topic": "Politics",
+        "gt_topic": "Health",
+        "pred_subtopic": "Policy",
+        "gt_subtopic": "Vaccination",
+        "topic_match": false,
+        "subtopic_match": false
+      },
+      {
+        "article_id": "f74a4812-bd4b-4544-b1f5-6be599b45862",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "f2bfee32-3b9f-4477-b197-71c95a9e0030",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "0e6b7ab2-6a10-4be0-9078-ced17d07b280",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Injury",
+        "gt_subtopic": "Injury",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "47ef9996-4421-4200-9964-da97c33a6b7e",
+        "pred_topic": "Science",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": false,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "85a8fd54-c8de-457c-87ad-aed7f2d7fc38",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Corruption",
+        "gt_subtopic": "Corruption",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "8301b0cb-5a19-4e7f-9c24-f0ad97c56bd3",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Natural Disaster",
+        "gt_subtopic": "Natural Disaster",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4c00f51f-fdd8-4c4b-a0be-5153cd82fb83",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Drug Trafficking",
+        "gt_subtopic": "Drug Trafficking",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "960e2c11-249b-4a2d-9a07-625468339783",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Pollution",
+        "gt_subtopic": "Pollution",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "531ab9c3-91a1-4d52-a9f8-cbed3f80b046",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4d4ad228-bd32-49d3-bbd6-c5556a48d8ac",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Fraud",
+        "gt_subtopic": "Fraud",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "9b866f39-5d16-4e0e-81ec-bd505abfd4fa",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "GDP",
+        "gt_subtopic": "GDP",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "82e333f3-4b56-4cbd-a3cb-af2d7979893a",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Astronomy",
+        "gt_subtopic": "Astronomy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7cdca419-1018-453b-9d6a-cffae47aab08",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "d76f9d76-6952-4e84-9733-12f06e76e67f",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "83dfa8f6-1024-47fe-b7a2-7200bcaaf2c5",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "38223fbc-1722-4950-890e-21e0fa8acc9b",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Physics",
+        "gt_subtopic": "Physics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "db3ec69a-8637-4704-b681-e4af08b7c2a1",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Election",
+        "gt_subtopic": "Election",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ff3c60cb-e17f-4873-abe5-0d01989f0252",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "a3f9f7ea-c0fc-4eb0-a912-4a1e4ab2991e",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Unemployment",
+        "gt_subtopic": "Unemployment",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "47f64b31-0b61-4b7c-95e2-22d8a1b51f04",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "496d3d30-63bc-4e56-8cca-d98906a1e40b",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "0cc07168-a36b-4218-a972-8d42784c06fd",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Fraud",
+        "gt_subtopic": "Fraud",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4568e4c6-636d-4bf6-8604-cad027276486",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7f3a6f54-2d9c-42d5-ac16-9fa1c8999178",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "804aac8c-15be-4b47-8297-535a91c5e2db",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Software",
+        "gt_subtopic": "Software",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "5e09994c-1886-41e0-8446-02765ba9b649",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Physics",
+        "gt_subtopic": "Physics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "9d1fdd05-db47-40b1-9ee3-52ed573b0f1d",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "f16a3b31-fc2f-4f82-857a-b5944cddc43d",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "30345aa1-7df5-4145-a0a9-21a1ccfbcdf8",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Cybersecurity",
+        "gt_subtopic": "Cybersecurity",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "a17866b5-9422-4e27-a6f6-77412c58e8ce",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "GDP",
+        "gt_subtopic": "GDP",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "89205081-fff8-4a6a-9d52-ae74af4bf842",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "688a14b1-0829-42f1-8b36-06f7e71be182",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "1c76d4e1-430e-4098-b913-b93df9126a17",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Mental Health",
+        "gt_subtopic": "Mental Health",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "b3467cf8-98b3-4300-9673-dddf33b4c53b",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "26f237e3-c8bf-4ba9-b793-96287731bec5",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Drug Trafficking",
+        "gt_subtopic": "Drug Trafficking",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "26b983ae-9e3d-4a33-a460-19f033abaf84",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Literature",
+        "gt_subtopic": "Literature",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7e946c6c-de39-4115-86a4-1ac88569608c",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Doping",
+        "gt_subtopic": "Doping",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "b5a159e1-e62e-4063-aa8f-b3ca68286cc3",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ff9c451d-3505-4482-a5bd-391ad80eae7e",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Nutrition",
+        "gt_subtopic": "Nutrition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "98086880-4efc-463e-b894-bf6739f06c5d",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "b210e721-5dc5-4bc2-aedf-fc84ce7218a1",
+        "pred_topic": "Health",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Policy",
+        "topic_match": false,
+        "subtopic_match": false
+      },
+      {
+        "article_id": "f0382663-17dd-49b8-a28a-d5780c0b6950",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4e66fca1-8c48-47fb-8f39-d0f57883de00",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Climate Change",
+        "gt_subtopic": "Climate Change",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "806bd84b-5274-404a-abf2-1e10c64cf35e",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Inflation",
+        "gt_subtopic": "Inflation",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "482bc7a5-8244-44a7-837f-862815c41448",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "1e5c283c-c091-4fb4-a5d7-a25102335af8",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "AI",
+        "gt_subtopic": "AI",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ff63ad79-8188-4701-bdab-8430e48edea0",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c11088d9-bc68-4592-a124-9748697ae9a3",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Astronomy",
+        "topic_match": true,
+        "subtopic_match": false
+      },
+      {
+        "article_id": "c89a0159-7d66-4721-8df6-3db1a29431f9",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Climate Change",
+        "gt_subtopic": "Climate Change",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "9312d303-d8e7-45ec-9fa1-2436264d2143",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Election",
+        "gt_subtopic": "Election",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "8c678dc3-9421-4201-8e51-b47d037b7f66",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "64f822b9-6c5c-4b06-bf82-58b2a11ce974",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "95150e46-1382-4f8c-aff9-7dc9d1a12bc9",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ee6b17db-f359-4f7d-a7d0-7469c55a6046",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Injury",
+        "gt_subtopic": "Injury",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6c447a84-7e58-46d2-ba05-c73b610871e4",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Research Discovery",
+        "gt_subtopic": "Research Discovery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "06ab3d2b-5db7-4b3c-938b-0b3f9b783e7c",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Literature",
+        "gt_subtopic": "Literature",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "8e9d993a-40b4-47eb-8c12-f55808aa5931",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Climate Change",
+        "gt_subtopic": "Climate Change",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "f56a1d36-56d2-478f-a3b5-57e8f9f7b2e0",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Literature",
+        "gt_subtopic": "Literature",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "025ab135-bbe6-4c2a-944b-b783dc9004e5",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Corruption",
+        "gt_subtopic": "Corruption",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "2045d39d-10fb-438f-91fd-51f654d7e3db",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4d4ee82e-5ed4-40b6-bb6b-37f69e181c21",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "91060f89-14f4-4630-89e9-ed008a10bb1b",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Physics",
+        "gt_subtopic": "Physics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "efb2e874-c721-4f15-a1ec-1b9f896356e4",
+        "pred_topic": "Science",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": false,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "b39fd260-23ed-4cc2-8b12-29992dbdfbde",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c1cf7f04-81c2-4b48-b477-668d5ef66802",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Election",
+        "gt_subtopic": "Election",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "0a35b00c-33a4-4c70-babb-1dbacacca0c2",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "1050a2b5-b4a5-43db-94c5-16f54dfdd5ee",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4a086022-111e-436b-999b-7f29c6a10528",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Nutrition",
+        "gt_subtopic": "Nutrition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "e9989c98-e4f1-4dbb-9a14-6177a3e01c01",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "5dd4ca23-ab17-4948-84ba-49b39f6b39a3",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6e21eadb-2e70-4ced-9347-a4e9cd341630",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "GDP",
+        "gt_subtopic": "GDP",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "68a42530-5488-4af8-90ef-f3a79e1090f1",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ae96c7f0-e141-4e47-8811-59db814cabb1",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Astronomy",
+        "gt_subtopic": "Astronomy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "f0dbd8e8-ad42-47f2-a5ab-3efeb692761b",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ec9f6c63-b18e-4029-a526-27d20fe774b4",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "2b373c87-d768-4af0-b6ca-7ddc905ab923",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Literature",
+        "gt_subtopic": "Literature",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c81db9e2-65bb-4999-af3e-def603f5aad7",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "dda320f8-ebd0-450d-8dfe-6fa08f6ce10e",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Corruption",
+        "gt_subtopic": "Corruption",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "98d7b80d-d27d-4b81-8e23-d471c50d8fbc",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c126ffd5-1996-4ba9-a9d3-1ce6346d3bb9",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Literature",
+        "gt_subtopic": "Literature",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "f07e11b2-8215-4aef-a5b8-3a8a4b4c82ed",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Gadgets",
+        "gt_subtopic": "Gadgets",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "31147603-8bfe-437c-8d33-8ed3553146e4",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Injury",
+        "gt_subtopic": "Injury",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "447ddf24-201f-4071-b2a8-1a51880c8379",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "b23c49c2-cdde-43ba-aa82-f84758a82015",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Injury",
+        "gt_subtopic": "Injury",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6803965f-172c-413b-a730-bc4a744fd715",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "ab4df3ae-40f0-4bb6-aca5-48f8fdf8fa0c",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "55b3c1bc-7004-4a13-a74f-691a9bb4496f",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Pollution",
+        "gt_subtopic": "Pollution",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "d4bb63f7-c749-4c0c-a13e-efbb90c08239",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "06587abb-fce1-4bed-bbbb-16b5de667113",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Epidemic",
+        "gt_subtopic": "Epidemic",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "57d59895-4dbf-4f36-9dba-65ce1071828e",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "07840d5e-a84b-4dff-ae9c-243da53f7772",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Cinema",
+        "gt_subtopic": "Cinema",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "5e4ddbfb-0cb6-4c80-b6ac-ee102a684c77",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Research Discovery",
+        "gt_subtopic": "Research Discovery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "cba5545a-bfd9-423f-a853-9482b37fab3c",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Nutrition",
+        "gt_subtopic": "Nutrition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "bedc0fda-32f9-49ef-92b8-1439dc1ed1d1",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "156b8b20-760a-453e-9e9a-347b4da53528",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6cbf7fb0-68f5-4393-bf34-ad4eec78e61e",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Cybersecurity",
+        "gt_subtopic": "Cybersecurity",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "bcb8ec42-d975-485f-9089-c60fe3a56dff",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "e1221d6e-8e41-4ebd-aff9-a951587bc096",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "GDP",
+        "gt_subtopic": "GDP",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "d7c966f5-281b-4afd-9f2a-c1ff361fe94f",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Murder",
+        "gt_subtopic": "Murder",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "edd74b87-6db2-451f-b35c-a3953014d689",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Gadgets",
+        "gt_subtopic": "Gadgets",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "58378ad3-aa3f-420d-9079-6416bb23fede",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "a5cff071-011b-4fac-bf6a-8f632c8404d6",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Nutrition",
+        "gt_subtopic": "Nutrition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c1bb2fce-f6db-470b-b843-5fc4d757e093",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7a9f5fa8-8972-44b6-85c9-7f868621a906",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Policy",
+        "gt_subtopic": "Policy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "fc9534f5-8f6c-4f29-8f09-ea0462a92b27",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "358634b1-f2a3-40be-92d9-d9d0d1e2cf5a",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Nutrition",
+        "gt_subtopic": "Nutrition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "44a2d978-6e66-48cb-9001-bb00264e0fa3",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "fcf01f4c-6d89-4b58-bac2-027823627861",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Physics",
+        "gt_subtopic": "Physics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "e56aa3cd-d45a-4563-9ef1-331d6b9f526e",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "aedf6482-f77d-4b81-8a1e-dbf5b91a8b4a",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "07715548-9515-4c7b-9944-2abcc5fbd20d",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "AI",
+        "gt_subtopic": "AI",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "45a3f09f-ec1a-4bbc-9e61-a4cad7d3ae36",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Fraud",
+        "gt_subtopic": "Fraud",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "639d6da9-8095-4eed-812a-200e652e96d1",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "e460bc57-982a-43c6-8c1c-91ed5f39b9d4",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Fraud",
+        "gt_subtopic": "Fraud",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "24eab536-f906-4da6-9d29-a1a6457bb633",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "04dce9c3-ba0c-4ce7-85d7-2e83398ab1f8",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "90fbce58-87f8-4906-a015-8e408a89eaff",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4776d960-99c8-4cbf-b9c0-4064eb180287",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Mental Health",
+        "gt_subtopic": "Mental Health",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "0766b913-1e09-4438-bcad-e61b70b20f4f",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "18aa5fe4-11a1-45bf-9a17-311bc896189a",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Astronomy",
+        "gt_subtopic": "Astronomy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "09b181e5-943b-40f9-950c-a62624a9f9bd",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Nutrition",
+        "gt_subtopic": "Nutrition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "17436e56-03b1-4103-a365-9b71ad26d026",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "5110ab66-5eb9-4240-880d-865db882831a",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "cf0927c5-3f8a-40da-883a-9e53aaa06bf5",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Policy",
+        "gt_subtopic": "Policy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7cdf8186-02ec-4895-9fab-f7e94d8e972a",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Festival",
+        "gt_subtopic": "Festival",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7b032dc0-e88a-478b-bdaa-ffef1ff902c9",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Drug Trafficking",
+        "gt_subtopic": "Drug Trafficking",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c64104cf-7d4e-465c-b7ef-60f4627104c6",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Gadgets",
+        "gt_subtopic": "Gadgets",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "503b38b7-ce95-462c-8ed2-b71bfee28ae1",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Doping",
+        "gt_subtopic": "Doping",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "474930ab-8503-469f-93a0-237bbedcdbc1",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Election",
+        "gt_subtopic": "Election",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "3e07eca9-eb60-4d0a-9154-237aaadcf41e",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "62c7c3c0-3885-49ac-9fd7-f2a36c360990",
+        "pred_topic": "Politics",
+        "gt_topic": "Science",
+        "pred_subtopic": "Corruption",
+        "gt_subtopic": "Corruption",
+        "topic_match": false,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "a43519da-87fd-45d2-a51c-cbd124e0d9c1",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Fraud",
+        "gt_subtopic": "Fraud",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "17ea89c2-5c3d-445c-b973-5ed32bb7ac3e",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "80667ad1-a5d4-4411-aa56-45362a0b1256",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Drug Trafficking",
+        "gt_subtopic": "Drug Trafficking",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "bd192369-e236-4891-9175-3f79c1f72504",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Cybersecurity",
+        "gt_subtopic": "Cinema",
+        "topic_match": true,
+        "subtopic_match": false
+      },
+      {
+        "article_id": "bdcf3946-4d39-49e5-82e7-c3090b77f513",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "113cee98-e9f0-45e2-a073-62015c6baf0b",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Football",
+        "gt_subtopic": "Football",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4b53e18d-6e30-4ed7-bc77-65c006c64f36",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "74d136b8-6f8b-47a6-8955-721671900b98",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Murder",
+        "gt_subtopic": "Murder",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "9071b0b1-fae7-4d1f-9fb1-fe4b9d3148da",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c34bafbc-88f1-4e4f-9571-c10182b60499",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Climate Change",
+        "gt_subtopic": "Climate Change",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "faf3561e-e157-44f8-9990-b690d4b090e8",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Drug Trafficking",
+        "gt_subtopic": "Drug Trafficking",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "cdd61bc7-d639-4e7b-98e4-6c240237d9ea",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "229f3a06-0aee-48e2-a769-4c52109caaf8",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Inflation",
+        "gt_subtopic": "Inflation",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "1ea30ce9-0fc1-4c72-984b-9d893e33b553",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "55ffcecb-2bda-41f5-b0cb-4790b93124ea",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "AI",
+        "gt_subtopic": "AI",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "91f70d20-1a94-42d9-8436-ed3168604008",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Pollution",
+        "gt_subtopic": "Pollution",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c8da8f21-073d-49ef-85b4-b2275b84e405",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Mental Health",
+        "gt_subtopic": "Mental Health",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "70d80892-a6bb-41be-9bbf-929574214534",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Astronomy",
+        "gt_subtopic": "Astronomy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "b201979f-31df-4890-b3f3-0ff2a4c1a9e1",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Mental Health",
+        "gt_subtopic": "Mental Health",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "b4bf6455-1239-45c7-8f40-9733e917ac1c",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Unemployment",
+        "gt_subtopic": "Unemployment",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "664ad3f2-c48d-4a5c-b787-2f9514180cce",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7c11fa9b-7060-46e8-971a-e59e284b985c",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "GDP",
+        "gt_subtopic": "GDP",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "aa5a30e4-be77-4afd-9fbc-8712e789306d",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Diplomacy",
+        "gt_subtopic": "Diplomacy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "650b5b3f-d9b5-4f1e-9f4c-b852930d9905",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Policy",
+        "gt_subtopic": "Policy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "e179f25e-e272-4537-b8e1-cbdafcbc099b",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "a0b83491-e1fb-4156-aff7-23b52f760ea2",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Festival",
+        "gt_subtopic": "Corruption",
+        "topic_match": true,
+        "subtopic_match": false
+      },
+      {
+        "article_id": "fa63214f-0f16-4ae2-92f0-01bccdf87413",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Art Exhibition",
+        "gt_subtopic": "Art Exhibition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "fc615d49-11ed-4add-b454-787903ef2152",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c21abd85-c56d-4d1b-90c9-7c7c21fc8dd8",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "35017add-e5d9-43df-bdf2-5062dd9933d3",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Biology",
+        "gt_subtopic": "Biology",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "9333e6a5-df8e-4614-80f0-448061143dac",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Vaccination",
+        "gt_subtopic": "Vaccination",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "450137d6-1dcd-404d-8d7b-e830b33c07cb",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Software",
+        "gt_subtopic": "Software",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "9935cb0a-255c-439b-8cf8-00ff3efc70a9",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Nutrition",
+        "gt_subtopic": "Nutrition",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "62325889-ad0c-4f2c-97df-698d543cea7a",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Injury",
+        "gt_subtopic": "Injury",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "33d30712-23e5-42d4-aef3-cd60f6e5a726",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Festival",
+        "gt_subtopic": "Festival",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "85c10086-af0a-4c6c-94fe-6b7659338a87",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "3f8408c8-62ee-43f7-ac5e-b9b525f09b3d",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Murder",
+        "gt_subtopic": "Murder",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "1ecde610-88f8-47f9-addc-62a98e57fd52",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Gadgets",
+        "gt_subtopic": "Gadgets",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "6863713a-e952-4be3-aaa9-9d69c1fb1835",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "7dec14d3-2034-4d88-83ab-a09980e379a9",
+        "pred_topic": "Environment",
+        "gt_topic": "Environment",
+        "pred_subtopic": "Wildlife",
+        "gt_subtopic": "Wildlife",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4a3644a6-1ab0-40ef-8b87-962669da3c78",
+        "pred_topic": "Health",
+        "gt_topic": "Health",
+        "pred_subtopic": "Mental Health",
+        "gt_subtopic": "Mental Health",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "33a57595-a324-4e60-bf32-b15330d54624",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Election",
+        "gt_subtopic": "Election",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "bb44ae3d-72f7-4f1d-a1f2-87e356321e93",
+        "pred_topic": "Science",
+        "gt_topic": "Science",
+        "pred_subtopic": "Physics",
+        "gt_subtopic": "Physics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "02566ed1-25c4-4ee2-ad8e-781956599b1d",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Corruption",
+        "gt_subtopic": "Corruption",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "4378eaf9-2a6e-40ed-b3d7-2d67a18b3bc3",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "GDP",
+        "gt_subtopic": "GDP",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "0dfaf836-e8a6-479f-93cc-8ffcf193fd7d",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Election",
+        "gt_subtopic": "Election",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "9955a0b6-958c-4da0-a0f2-06a77ebba9ea",
+        "pred_topic": "Sports",
+        "gt_topic": "Sports",
+        "pred_subtopic": "Olympics",
+        "gt_subtopic": "Olympics",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "783c9334-348f-420a-be3b-63a6622774f3",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Robbery",
+        "gt_subtopic": "Robbery",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "c6f0d15f-f5b0-441c-9ea6-943b6cb66ecc",
+        "pred_topic": "Economy",
+        "gt_topic": "Economy",
+        "pred_subtopic": "Stock Market",
+        "gt_subtopic": "Stock Market",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "8a3471a1-02dd-4622-8b1d-72f5e1bb02c4",
+        "pred_topic": "Crime",
+        "gt_topic": "Crime",
+        "pred_subtopic": "Drug Trafficking",
+        "gt_subtopic": "Drug Trafficking",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "cb517389-aaa6-414f-b547-ac5ebcd528b3",
+        "pred_topic": "Politics",
+        "gt_topic": "Politics",
+        "pred_subtopic": "Policy",
+        "gt_subtopic": "Policy",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "278a5986-13e0-48f8-a0b0-b2ee395407b2",
+        "pred_topic": "Technology",
+        "gt_topic": "Technology",
+        "pred_subtopic": "Gadgets",
+        "gt_subtopic": "Gadgets",
+        "topic_match": true,
+        "subtopic_match": true
+      },
+      {
+        "article_id": "f80b5beb-81f2-495a-a574-94857d6b2c34",
+        "pred_topic": "Culture",
+        "gt_topic": "Culture",
+        "pred_subtopic": "Cinema",
+        "gt_subtopic": "Cinema",
+        "topic_match": true,
+        "subtopic_match": true
+      }
+    ]
+  },
+  "summary": {
+    "entity_f1": 0.811960705960706,
+    "role_f1": 0.7410468942392318,
+    "topic_accuracy": 0.975,
+    "subtopic_accuracy": 0.97
+  }
+}

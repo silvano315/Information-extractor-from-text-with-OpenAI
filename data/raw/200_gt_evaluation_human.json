@@ -1,0 +1,6793 @@
+[
+  {
+    "people":[
+      {
+        "name":"Laureano Zichichi",
+        "roles":[
+          "Regulator"
+        ]
+      },
+      {
+        "name":"Greco Bragadin",
+        "roles":[
+          "Tax Official",
+          "Financial Analyst"
+        ]
+      },
+      {
+        "name":"Sig.ra Eva Bazzi",
+        "roles":[
+          "Economist"
+        ]
+      },
+      {
+        "name":"Hugo Maggioli",
+        "roles":[
+          "Trader"
+        ]
+      },
+      {
+        "name":"Amalia Dossi-Toscanini",
+        "roles":[
+          "Accountant"
+        ]
+      },
+      {
+        "name":"Fulvio Pellico",
+        "roles":[
+          "Consultant"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Lama Di Reno",
+    "date":1723939200000,
+    "uuid":"4d4ee82e-5ed4-40b6-bb6b-37f69e181c21"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Eugenia Leone",
+        "roles":[
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Dina Nolcini-Ricciardi",
+        "roles":[
+          "Medical Technician",
+          "Health Administrator"
+        ]
+      },
+      {
+        "name":"Gianmarco Rossi-Amaldi",
+        "roles":[
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Isabella Rinaldi",
+        "roles":[
+          "Patient"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Nutrition",
+    "place":"Lora",
+    "date":1749168000000,
+    "uuid":"cba5545a-bfd9-423f-a853-9482b37fab3c"
+  },
+  {
+    "people":[
+      {
+        "name":"Alessandra Righi",
+        "roles":[
+          "Policy Maker",
+          "Journalist"
+        ]
+      },
+      {
+        "name":"Sig.ra Dolores Conte",
+        "roles":[
+          "Minister"
+        ]
+      },
+      {
+        "name":"Stefania Bellini",
+        "roles":[
+          "Lobbyist",
+          "Advisor"
+        ]
+      },
+      {
+        "name":"Giustino Finotto-Cristoforetti",
+        "roles":[
+          "Diplomat",
+          "Consul"
+        ]
+      },
+      {
+        "name":"Massimo Bertoli-Bruscantini",
+        "roles":[
+          "Ambassador"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Corruption",
+    "place":"Subbiano",
+    "date":1749340800000,
+    "uuid":"025ab135-bbe6-4c2a-944b-b783dc9004e5"
+  },
+  {
+    "people":[
+      {
+        "name":"Cesare Pasolini",
+        "roles":[
+          "Pharmacist"
+        ]
+      },
+      {
+        "name":"Milena Conti",
+        "roles":[
+          "Medical Technician",
+          "Epidemiologist"
+        ]
+      },
+      {
+        "name":"Gioele Scamarcio",
+        "roles":[
+          "Researcher",
+          "Therapist"
+        ]
+      },
+      {
+        "name":"Victoria Valier",
+        "roles":[
+          "Nurse",
+          "Doctor"
+        ]
+      },
+      {
+        "name":"Silvia Oscuro-Venturi",
+        "roles":[
+          "Health Administrator",
+          "Paramedic"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Casalcassinese",
+    "date":1734048000000,
+    "uuid":"0793ac90-686d-4050-8e18-68551040d3d1"
+  },
+  {
+    "people":[
+      {
+        "name":"Gianluigi Tropea",
+        "roles":[
+          "Crime Scene Investigator"
+        ]
+      },
+      {
+        "name":"Giuseppina Interiano",
+        "roles":[
+          "Lawyer"
+        ]
+      },
+      {
+        "name":"Adriana Beccheria-Geraci",
+        "roles":[
+          "Suspect"
+        ]
+      },
+      {
+        "name":"Paolo Cannizzaro",
+        "roles":[
+          "Reporter",
+          "Police Officer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Fraud",
+    "place":"Toline",
+    "date":1741392000000,
+    "uuid":"a43519da-87fd-45d2-a51c-cbd124e0d9c1"
+  },
+  {
+    "people":[
+      {
+        "name":"Loretta Corradi",
+        "roles":[
+          "Lab Technician",
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Aurora Ponti",
+        "roles":[
+          "Professor",
+          "Science Communicator"
+        ]
+      },
+      {
+        "name":"Flavio Montalcini",
+        "roles":[
+          "Student"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Physics",
+    "place":"Ripabianca",
+    "date":1729036800000,
+    "uuid":"38223fbc-1722-4950-890e-21e0fa8acc9b"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig. Fausto Torricelli",
+        "roles":[
+          "Event Organizer",
+          "Mascot"
+        ]
+      },
+      {
+        "name":"Sig.ra Vanessa Musatti",
+        "roles":[
+          "Sports Photographer"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"In Via Santa Maria Di Gesu'",
+    "date":1741046400000,
+    "uuid":"d4bb63f7-c749-4c0c-a13e-efbb90c08239"
+  },
+  {
+    "people":[
+      {
+        "name":"Angelina Treivsan",
+        "roles":[
+          "Health Administrator",
+          "Medical Technician"
+        ]
+      },
+      {
+        "name":"Ivo Tutino",
+        "roles":[
+          "Epidemiologist",
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Giovanna Amaldi",
+        "roles":[
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Laura Adinolfi",
+        "roles":[
+          "Volunteer",
+          "Patient"
+        ]
+      },
+      {
+        "name":"Leonardo Campano",
+        "roles":[
+          "Nurse"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Badualga",
+    "date":1744070400000,
+    "uuid":"fc9534f5-8f6c-4f29-8f09-ea0462a92b27"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig.ra Daria Agnioluello",
+        "roles":[
+          "Prison Officer",
+          "Coroner"
+        ]
+      },
+      {
+        "name":"Sig.ra Evangelista Errani",
+        "roles":[
+          "Bailiff"
+        ]
+      },
+      {
+        "name":"Piero Pisacane",
+        "roles":[
+          "Criminal",
+          "Drug Dealer"
+        ]
+      },
+      {
+        "name":"Sole Scaduto",
+        "roles":[
+          "Forensic Expert"
+        ]
+      },
+      {
+        "name":"Fabia Bajamonti",
+        "roles":[
+          "Mafia Boss",
+          "Suspect"
+        ]
+      },
+      {
+        "name":"Maria Iadanza-Carnera",
+        "roles":[
+          "Victim",
+          "Reporter"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Drug Trafficking",
+    "place":"Sezze",
+    "date":1730073600000,
+    "uuid":"26f237e3-c8bf-4ba9-b793-96287731bec5"
+  },
+  {
+    "people":[
+      {
+        "name":"zAlfio Mazzacurati-uPccini",
+        "roles":[
+          "Inventor"
+        ]
+      },
+      {
+        "name":"Paulina Donati",
+        "roles":[
+          "Chemist",
+          "Engineer"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"Geiselsberg",
+    "date":1729036800000,
+    "uuid":"531ab9c3-91a1-4d52-a9f8-cbed3f80b046"
+  },
+  {
+    "people":[
+      {
+        "name":"Evangelista Mazzini",
+        "roles":[
+          "Mascot"
+        ]
+      },
+      {
+        "name":"Luciano Bixio-Argentero",
+        "roles":[
+          "Coach"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Monteleone Di Puglia",
+    "date":1724371200000,
+    "uuid":"6803965f-172c-413b-a730-bc4a744fd715"
+  },
+  {
+    "people":[
+      {
+        "name":"Piergiorgio Casadei",
+        "roles":[
+          "Police Officer",
+          "Crime Scene Investigator"
+        ]
+      },
+      {
+        "name":"Lucrezia Romiti",
+        "roles":[
+          "Victim",
+          "Reporter"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Nocchi",
+    "date":1738540800000,
+    "uuid":"85c10086-af0a-4c6c-94fe-6b7659338a87"
+  },
+  {
+    "people":[
+      {
+        "name":"Gino Parini",
+        "roles":[
+          "Scientist"
+        ]
+      },
+      {
+        "name":"Adelasia Costalonga",
+        "roles":[
+          "Wildlife Officer",
+          "Climate Specialist"
+        ]
+      },
+      {
+        "name":"Beatrice Jilani",
+        "roles":[
+          "Park Ranger"
+        ]
+      },
+      {
+        "name":"Goffredo Pederiva",
+        "roles":[
+          "Conservationist",
+          "Activist"
+        ]
+      },
+      {
+        "name":"Dott. Maria Lombardo",
+        "roles":[
+          "Journalist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Piscopio",
+    "date":1741996800000,
+    "uuid":"0766b913-1e09-4438-bcad-e61b70b20f4f"
+  },
+  {
+    "people":[
+      {
+        "name":"Adelmo Pezzali",
+        "roles":[
+          "Cloud Architect"
+        ]
+      },
+      {
+        "name":"Dott. Gaetano Innocenti",
+        "roles":[
+          "CTO",
+          "UX Designer"
+        ]
+      },
+      {
+        "name":"Patrizia Spinola",
+        "roles":[
+          "Developer",
+          "Network Engineer"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"AI",
+    "place":"Contea",
+    "date":1748995200000,
+    "uuid":"07715548-9515-4c7b-9944-2abcc5fbd20d"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig. Piergiorgio Saffi",
+        "roles":[
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Pina Vergerio",
+        "roles":[
+          "Chemist"
+        ]
+      },
+      {
+        "name":"Leone Cabibbo",
+        "roles":[
+          "Lab Technician",
+          "Professor"
+        ]
+      },
+      {
+        "name":"Pier Tartini",
+        "roles":[
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Gloria Loredan",
+        "roles":[
+          "Field Researcher",
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Enzio Dossetti",
+        "roles":[
+          "Student",
+          "Science Communicator"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"Ostia Parmense",
+    "date":1722384000000,
+    "uuid":"ff3c60cb-e17f-4873-abe5-0d01989f0252"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Roberto Schicchi",
+        "roles":[
+          "Victim",
+          "Crime Scene Investigator"
+        ]
+      },
+      {
+        "name":"Federigo Soprano-Cendron",
+        "roles":[
+          "Gang Member"
+        ]
+      },
+      {
+        "name":"Paulina Salvo",
+        "roles":[
+          "Advocate",
+          "Police Officer"
+        ]
+      },
+      {
+        "name":"Dott. Raffaello Gotti",
+        "roles":[
+          "Mafia Boss",
+          "Suspect"
+        ]
+      },
+      {
+        "name":"Bianca Maggioli",
+        "roles":[
+          "Criminal",
+          "Drug Dealer"
+        ]
+      },
+      {
+        "name":"Pomponio Barzini",
+        "roles":[
+          "Judge"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Murder",
+    "place":"Villa Mesa",
+    "date":1734220800000,
+    "uuid":"74d136b8-6f8b-47a6-8955-721671900b98"
+  },
+  {
+    "people":[
+      {
+        "name":"Vito Vanvitelli",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Patrizio Tropea",
+        "roles":[
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Luciana Montanariello-Interminelli",
+        "roles":[
+          "Science Communicator"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Astronomy",
+    "place":"Legnaro",
+    "date":1743552000000,
+    "uuid":"82e333f3-4b56-4cbd-a3cb-af2d7979893a"
+  },
+  {
+    "people":[
+      {
+        "name":"Aldo Altera",
+        "roles":[
+          "Sponsor"
+        ]
+      },
+      {
+        "name":"Fabio Mantegazza",
+        "roles":[
+          "Fan"
+        ]
+      },
+      {
+        "name":"Evangelista Bondumier",
+        "roles":[
+          "Sports Photographer",
+          "Mascot"
+        ]
+      },
+      {
+        "name":"Lucrezia Caccianemico-Aulenti",
+        "roles":[
+          "Sports Journalist"
+        ]
+      },
+      {
+        "name":"Nicola Ovadia",
+        "roles":[
+          "Referee"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Malafrasca",
+    "date":1721001600000,
+    "uuid":"496d3d30-63bc-4e56-8cca-d98906a1e40b"
+  },
+  {
+    "people":[
+      {
+        "name":"Dino Grimani-Bosurgi",
+        "roles":[
+          "Financial Analyst"
+        ]
+      },
+      {
+        "name":"Isabella Orengo-Moccia",
+        "roles":[
+          "Investor"
+        ]
+      },
+      {
+        "name":"Fausto Sermonti-Verri",
+        "roles":[
+          "Business Owner",
+          "Economist"
+        ]
+      },
+      {
+        "name":"Letizia Crispi",
+        "roles":[
+          "Trader",
+          "Banker"
+        ]
+      },
+      {
+        "name":"Dott. Giosuè Parini",
+        "roles":[
+          "Regulator",
+          "Tax Official"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"GDP",
+    "place":"Arcille",
+    "date":1736035200000,
+    "uuid":"a17866b5-9422-4e27-a6f6-77412c58e8ce"
+  },
+  {
+    "people":[
+      {
+        "name":"Annetta Doglioni",
+        "roles":[
+          "Politician"
+        ]
+      },
+      {
+        "name":"Ubaldo Boito",
+        "roles":[
+          "Consul"
+        ]
+      },
+      {
+        "name":"Antonina Vespa",
+        "roles":[
+          "Party Leader",
+          "Minister"
+        ]
+      },
+      {
+        "name":"Emma Donatoni-Pulci",
+        "roles":[
+          "Analyst"
+        ]
+      },
+      {
+        "name":"Piergiorgio Ferrazzi",
+        "roles":[
+          "Policy Maker"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Election",
+    "place":"Tredozio",
+    "date":1728172800000,
+    "uuid":"c1cf7f04-81c2-4b48-b477-668d5ef66802"
+  },
+  {
+    "people":[
+      {
+        "name":"Graziano Mazzanti",
+        "roles":[
+          "Fan",
+          "Sports Journalist"
+        ]
+      },
+      {
+        "name":"Luciana Marinetti",
+        "roles":[
+          "Club Owner",
+          "Agent"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Injury",
+    "place":"Muravera",
+    "date":1736467200000,
+    "uuid":"31147603-8bfe-437c-8d33-8ed3553146e4"
+  },
+  {
+    "people":[
+      {
+        "name":"Gianfrancesco Mazzacurati-Ovadia",
+        "roles":[
+          "Student",
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Rosina Petralli",
+        "roles":[
+          "Mathematician",
+          "Chemist"
+        ]
+      },
+      {
+        "name":"Paride Merisi",
+        "roles":[
+          "Engineer"
+        ]
+      },
+      {
+        "name":"Greca Oliboni",
+        "roles":[
+          "Lab Technician"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Physics",
+    "place":"Visna'",
+    "date":1724544000000,
+    "uuid":"5e09994c-1886-41e0-8446-02765ba9b649"
+  },
+  {
+    "people":[
+      {
+        "name":"Lucia Silvestri-Farnese",
+        "roles":[
+          "Consultant",
+          "Employee"
+        ]
+      },
+      {
+        "name":"Massimo Gioberti-Roth",
+        "roles":[
+          "Tax Official"
+        ]
+      },
+      {
+        "name":"Venancio Bosio",
+        "roles":[
+          "Entrepreneur",
+          "Auditor"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Astronomy",
+    "place":"Nova Siri",
+    "date":1729900800000,
+    "uuid":"c11088d9-bc68-4592-a124-9748697ae9a3"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Antgelo Bignmai",
+        "roles":[
+          "Mafia Boss",
+          "Thief"
+        ]
+      },
+      {
+        "name":"Rossana Passalacqua-Baglioni",
+        "roles":[
+          "Detective"
+        ]
+      },
+      {
+        "name":"Rossana Piane",
+        "roles":[
+          "Reporter"
+        ]
+      },
+      {
+        "name":"Marcantonio Mozart",
+        "roles":[
+          "Forensic Expert"
+        ]
+      },
+      {
+        "name":"Beatrice Peano-Favata",
+        "roles":[
+          "Drug Dealer",
+          "Gang Member"
+        ]
+      },
+      {
+        "name":"Nedda Pisano-Inzaghi",
+        "roles":[
+          "Police Officer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Murder",
+    "place":"Castellazzo",
+    "date":1732233600000,
+    "uuid":"d7c966f5-281b-4afd-9f2a-c1ff361fe94f"
+  },
+  {
+    "people":[
+      {
+        "name":"Carmielso Balotelli",
+        "roles":[
+          "Diplomat",
+          "Consul"
+        ]
+      },
+      {
+        "name":"Claudio Tartini",
+        "roles":[
+          "Politician"
+        ]
+      },
+      {
+        "name":"Tonia Omma",
+        "roles":[
+          "Ambassador"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Sellero",
+    "date":1720569600000,
+    "uuid":"ec9f6c63-b18e-4029-a526-27d20fe774b4"
+  },
+  {
+    "people":[
+      {
+        "name":"Stella Sanudo",
+        "roles":[
+          "DevOps Engineer",
+          "Ethical Hacker"
+        ]
+      },
+      {
+        "name":"Camilla Tolentino",
+        "roles":[
+          "Systems Administrator",
+          "Database Administrator"
+        ]
+      },
+      {
+        "name":"Sig. Cesare Mannoia",
+        "roles":[
+          "Hacker"
+        ]
+      },
+      {
+        "name":"Arnaldo Montalcini",
+        "roles":[
+          "Security Analyst",
+          "Cloud Architect"
+        ]
+      },
+      {
+        "name":"Virginia Accardo",
+        "roles":[
+          "Technical Writer"
+        ]
+      },
+      {
+        "name":"Gustavo Federico",
+        "roles":[
+          "CEO"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Cybersecurity",
+    "place":"Monvalle",
+    "date":1735603200000,
+    "uuid":"3c35dac8-779b-4f2e-a54f-192a6027cc81"
+  },
+  {
+    "people":[
+      {
+        "name":"Coriolano Satta",
+        "roles":[
+          "Reporter"
+        ]
+      },
+      {
+        "name":"Flavio Fantini",
+        "roles":[
+          "Lawyer",
+          "Detective"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Fraud",
+    "place":"Pistoia",
+    "date":1741132800000,
+    "uuid":"45a3f09f-ec1a-4bbc-9e61-a4cad7d3ae36"
+  },
+  {
+    "people":[
+      {
+        "name":"Liliana kFittipalid-Passalacqua",
+        "roles":[
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Ubaldo Vismara",
+        "roles":[
+          "Surgeon",
+          "Pharmacist"
+        ]
+      },
+      {
+        "name":"Claudia Foscari",
+        "roles":[
+          "Health Administrator",
+          "Medical Technician"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Mental Health",
+    "place":"Schifoni",
+    "date":1722038400000,
+    "uuid":"c8da8f21-073d-49ef-85b4-b2275b84e405"
+  },
+  {
+    "people":[
+      {
+        "name":"Ottavio Albertini",
+        "roles":[
+          "Coach"
+        ]
+      },
+      {
+        "name":"Sig.ra Eugenia Endrizzi",
+        "roles":[
+          "Athlete"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Volturara Irpina",
+    "date":1735689600000,
+    "uuid":"b5a159e1-e62e-4063-aa8f-b3ca68286cc3"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig.ra Berenice Onio",
+        "roles":[
+          "Theatre Technician"
+        ]
+      },
+      {
+        "name":"Germana Rossi",
+        "roles":[
+          "Festival Organizer"
+        ]
+      },
+      {
+        "name":"Gian Accardo",
+        "roles":[
+          "Fan",
+          "Audience Member"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Carapelle",
+    "date":1740096000000,
+    "uuid":"f0382663-17dd-49b8-a28a-d5780c0b6950"
+  },
+  {
+    "people":[
+      {
+        "name":"Angelina Fieramosca",
+        "roles":[
+          "Campaign Manager"
+        ]
+      },
+      {
+        "name":"Lara Seddio",
+        "roles":[
+          "Voter",
+          "Lobbyist"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Colledimacine",
+    "date":1727827200000,
+    "uuid":"aa5a30e4-be77-4afd-9fbc-8712e789306d"
+  },
+  {
+    "people":[
+      {
+        "name":"Nanni Fantozzi",
+        "roles":[
+          "Reporter",
+          "Advocate"
+        ]
+      },
+      {
+        "name":"Ramona Polizzi-Staglieno",
+        "roles":[
+          "Prison Officer"
+        ]
+      },
+      {
+        "name":"Sig.ra Maria Comolli",
+        "roles":[
+          "Witness",
+          "Victim"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Siziano",
+    "date":1742256000000,
+    "uuid":"d76f9d76-6952-4e84-9733-12f06e76e67f"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Nicola Scaduto",
+        "roles":[
+          "Patient"
+        ]
+      },
+      {
+        "name":"Patrizio Fantini-Grasso",
+        "roles":[
+          "Medical Technician"
+        ]
+      },
+      {
+        "name":"Cassandra Ostinelli",
+        "roles":[
+          "Paramedic"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Nutrition",
+    "place":"Retegno",
+    "date":1739318400000,
+    "uuid":"ff9c451d-3505-4482-a5bd-391ad80eae7e"
+  },
+  {
+    "people":[
+      {
+        "name":"Ignazio Trapanese",
+        "roles":[
+          "Policy Maker",
+          "Lobbyist"
+        ]
+      },
+      {
+        "name":"Ermes Renzi-Brunelleschi",
+        "roles":[
+          "Government Official",
+          "Politician"
+        ]
+      },
+      {
+        "name":"Maria Pininfarina",
+        "roles":[
+          "Analyst"
+        ]
+      },
+      {
+        "name":"Cesare Milanesi",
+        "roles":[
+          "Voter"
+        ]
+      },
+      {
+        "name":"Dott. Telemaco Moneta",
+        "roles":[
+          "Campaign Manager",
+          "Minister"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Isola Di Fano",
+    "date":1737590400000,
+    "uuid":"83dfa8f6-1024-47fe-b7a2-7200bcaaf2c5"
+  },
+  {
+    "people":[
+      {
+        "name":"Agostino Lucarelli",
+        "roles":[
+          "Lawyer"
+        ]
+      },
+      {
+        "name":"Liliana Morandi",
+        "roles":[
+          "Police Officer"
+        ]
+      },
+      {
+        "name":"Rosaria Fabrizi",
+        "roles":[
+          "Bailiff"
+        ]
+      },
+      {
+        "name":"Tina Petrocelli",
+        "roles":[
+          "Prison Officer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Fraud",
+    "place":"Igne",
+    "date":1728691200000,
+    "uuid":"4d4ad228-bd32-49d3-bbd6-c5556a48d8ac"
+  },
+  {
+    "people":[
+      {
+        "name":"Dolores Gagliano",
+        "roles":[
+          "Criminal"
+        ]
+      },
+      {
+        "name":"Aurora Lopresti-Tonisto",
+        "roles":[
+          "Bailiff",
+          "Prison Officer"
+        ]
+      },
+      {
+        "name":"Irma Inzaghi",
+        "roles":[
+          "Suspect",
+          "Thief"
+        ]
+      },
+      {
+        "name":"Lolita Sbarbaro",
+        "roles":[
+          "Gang Member",
+          "Mafia Boss"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Fraud",
+    "place":"Collodi",
+    "date":1724544000000,
+    "uuid":"e460bc57-982a-43c6-8c1c-91ed5f39b9d4"
+  },
+  {
+    "people":[
+      {
+        "name":"Luchino Argento",
+        "roles":[
+          "Health Administrator",
+          "Epidemiologist"
+        ]
+      },
+      {
+        "name":"Ermes Sagredo",
+        "roles":[
+          "Pharmacist",
+          "Nurse"
+        ]
+      },
+      {
+        "name":"Maura Tirabassi",
+        "roles":[
+          "Paramedic",
+          "Medical Technician"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Ponte Del Giglio",
+    "date":1732406400000,
+    "uuid":"9333e6a5-df8e-4614-80f0-448061143dac"
+  },
+  {
+    "people":[
+      {
+        "name":"zAmadna Malpighi",
+        "roles":[
+          "Analyst"
+        ]
+      },
+      {
+        "name":"Paulina Cherubini",
+        "roles":[
+          "Journalist"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Corruption",
+    "place":"San Giovanni Di Livenza",
+    "date":1733529600000,
+    "uuid":"02566ed1-25c4-4ee2-ad8e-781956599b1d"
+  },
+  {
+    "people":[
+      {
+        "name":"Federico Einaudi",
+        "roles":[
+          "DevOps Engineer"
+        ]
+      },
+      {
+        "name":"Eraldo Polani",
+        "roles":[
+          "CTO",
+          "Technical Writer"
+        ]
+      },
+      {
+        "name":"Mirco Barberini-Giovine",
+        "roles":[
+          "QA Tester",
+          "Product Manager"
+        ]
+      },
+      {
+        "name":"Eraldo Pavone",
+        "roles":[
+          "Cloud Architect",
+          "Ethical Hacker"
+        ]
+      },
+      {
+        "name":"Cirillo Perini",
+        "roles":[
+          "Developer",
+          "Database Administrator"
+        ]
+      },
+      {
+        "name":"Ernesto Gramsci",
+        "roles":[
+          "Network Engineer"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"AI",
+    "place":"Le Ferriere",
+    "date":1740787200000,
+    "uuid":"1e5c283c-c091-4fb4-a5d7-a25102335af8"
+  },
+  {
+    "people":[
+      {
+        "name":"Mirko Tacchini",
+        "roles":[
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Nedda Platini",
+        "roles":[
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Piergiuseppe Novaro",
+        "roles":[
+          "Commentator",
+          "Fan"
+        ]
+      },
+      {
+        "name":"Amalia Russo",
+        "roles":[
+          "Team Doctor"
+        ]
+      },
+      {
+        "name":"Dott. Vittoria Moneta",
+        "roles":[
+          "Sports Photographer"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Injury",
+    "place":"Succiso",
+    "date":1732924800000,
+    "uuid":"ee6b17db-f359-4f7d-a7d0-7469c55a6046"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig. Ferdinando Babbo",
+        "roles":[
+          "Citizen"
+        ]
+      },
+      {
+        "name":"Oreste Albertini",
+        "roles":[
+          "Ecologist"
+        ]
+      },
+      {
+        "name":"Lisa Lucciano",
+        "roles":[
+          "Environmental Engineer",
+          "Activist"
+        ]
+      },
+      {
+        "name":"Giovanna Gradenigo",
+        "roles":[
+          "Park Ranger"
+        ]
+      },
+      {
+        "name":"Luciano Borsellino",
+        "roles":[
+          "Wildlife Officer",
+          "Climate Specialist"
+        ]
+      },
+      {
+        "name":"Dott. Ninetta Brichese",
+        "roles":[
+          "Conservationist",
+          "Journalist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Rastellino",
+    "date":1733788800000,
+    "uuid":"47f64b31-0b61-4b7c-95e2-22d8a1b51f04"
+  },
+  {
+    "people":[
+      {
+        "name":"Ramona Barese",
+        "roles":[
+          "Cultural Historian"
+        ]
+      },
+      {
+        "name":"Annetta Salvo",
+        "roles":[
+          "Curator",
+          "Playwright"
+        ]
+      },
+      {
+        "name":"Marcella Errigo-Benigni",
+        "roles":[
+          "Critic"
+        ]
+      },
+      {
+        "name":"Michela Balbo",
+        "roles":[
+          "Museum Staff"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Festival",
+    "place":"Francavilla Bisio",
+    "date":1731196800000,
+    "uuid":"7cdf8186-02ec-4895-9fab-f7e94d8e972a"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig.ra Alessia Modugno",
+        "roles":[
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Eva Antonucci",
+        "roles":[
+          "Consul",
+          "Ambassador"
+        ]
+      },
+      {
+        "name":"Paola Germano",
+        "roles":[
+          "Diplomat"
+        ]
+      },
+      {
+        "name":"Letizia Caruso",
+        "roles":[
+          "Government Official",
+          "Activist"
+        ]
+      },
+      {
+        "name":"Gaspare Tomaselli",
+        "roles":[
+          "Analyst"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Policy",
+    "place":"Savignone",
+    "date":1739664000000,
+    "uuid":"b210e721-5dc5-4bc2-aedf-fc84ce7218a1"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Antonello Tommaseo",
+        "roles":[
+          "Physiotherapist",
+          "Team Doctor"
+        ]
+      },
+      {
+        "name":"Bianca Sabbatini",
+        "roles":[
+          "Athlete",
+          "Trainer"
+        ]
+      },
+      {
+        "name":"Ruggiero Zola",
+        "roles":[
+          "Agent"
+        ]
+      },
+      {
+        "name":"Lisa Piazzi",
+        "roles":[
+          "Sports Photographer",
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Antonio Veltroni",
+        "roles":[
+          "Referee",
+          "Coach"
+        ]
+      },
+      {
+        "name":"Alessandra Galvani",
+        "roles":[
+          "Mascot"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Injury",
+    "place":"Antronapiana",
+    "date":1736208000000,
+    "uuid":"0e6b7ab2-6a10-4be0-9078-ced17d07b280"
+  },
+  {
+    "people":[
+      {
+        "name":"Filippa Argento",
+        "roles":[
+          "Lab Technician",
+          "Professor"
+        ]
+      },
+      {
+        "name":"Annalisa Doglioni",
+        "roles":[
+          "Data Analyst",
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Maria Benussi",
+        "roles":[
+          "Inventor"
+        ]
+      },
+      {
+        "name":"Gabriele Bajamonti",
+        "roles":[
+          "Science Communicator"
+        ]
+      },
+      {
+        "name":"Dott. Adriana Scotti",
+        "roles":[
+          "Physicist",
+          "Biologist"
+        ]
+      },
+      {
+        "name":"Piero Zamengo-Battisti",
+        "roles":[
+          "Student"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Astronomy",
+    "place":"Motta Di Costigliole",
+    "date":1729814400000,
+    "uuid":"ae96c7f0-e141-4e47-8811-59db814cabb1"
+  },
+  {
+    "people":[
+      {
+        "name":"Ruggiero Combi",
+        "roles":[
+          "Gang Member",
+          "Thief"
+        ]
+      },
+      {
+        "name":"Zaira Comencini-Nolcini",
+        "roles":[
+          "Court Clerk",
+          "Lawyer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Fraud",
+    "place":"Mili Superiore",
+    "date":1737331200000,
+    "uuid":"0cc07168-a36b-4218-a972-8d42784c06fd"
+  },
+  {
+    "people":[
+      {
+        "name":"Giampaolo Moccia",
+        "roles":[
+          "Pharmacist",
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Giacobbe Antonelli",
+        "roles":[
+          "Paramedic",
+          "Medical Technician"
+        ]
+      },
+      {
+        "name":"Gianmarco Iacobucci-Morabito",
+        "roles":[
+          "Epidemiologist",
+          "Health Administrator"
+        ]
+      },
+      {
+        "name":"Stefano Navone",
+        "roles":[
+          "Radiologist"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Magliano Nuovo",
+    "date":1749945600000,
+    "uuid":"0a35b00c-33a4-4c70-babb-1dbacacca0c2"
+  },
+  {
+    "people":[
+      {
+        "name":"Ricciotti Binaghi",
+        "roles":[
+          "Spectator"
+        ]
+      },
+      {
+        "name":"Giampaolo Tozzi",
+        "roles":[
+          "Cultural Historian",
+          "Fan"
+        ]
+      },
+      {
+        "name":"Pietro Albertini",
+        "roles":[
+          "Artist"
+        ]
+      },
+      {
+        "name":"Sig. Domenico Borromini",
+        "roles":[
+          "Audience Member"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Cinema",
+    "place":"Sasso Di Neviano",
+    "date":1722211200000,
+    "uuid":"07840d5e-a84b-4dff-ae9c-243da53f7772"
+  },
+  {
+    "people":[
+      {
+        "name":"Patrizia Canil",
+        "roles":[
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Giacinto Venturi-Mazzi",
+        "roles":[
+          "Surgeon"
+        ]
+      },
+      {
+        "name":"Letizia Pelli",
+        "roles":[
+          "Mental Health Counselor"
+        ]
+      },
+      {
+        "name":"Antonella Olivetti",
+        "roles":[
+          "Health Administrator",
+          "Epidemiologist"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Rombiolo",
+    "date":1732233600000,
+    "uuid":"f6e6759e-482b-4d99-bca1-271874f3c38f"
+  },
+  {
+    "people":[
+      {
+        "name":"Ettore Mastroianni",
+        "roles":[
+          "Science Communicator",
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Amedeo Bajamonti",
+        "roles":[
+          "Data Analyst",
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Fabia Storladi",
+        "roles":[
+          "Chemist",
+          "Biologist"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Biology",
+    "place":"Vairano Stazione",
+    "date":1720915200000,
+    "uuid":"47ef9996-4421-4200-9964-da97c33a6b7e"
+  },
+  {
+    "people":[
+      {
+        "name":"Tonia Cimarosa",
+        "roles":[
+          "Prison Officer"
+        ]
+      },
+      {
+        "name":"Giorgia Carullo",
+        "roles":[
+          "Drug Dealer",
+          "Thief"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Riolo",
+    "date":1749686400000,
+    "uuid":"2045d39d-10fb-438f-91fd-51f654d7e3db"
+  },
+  {
+    "people":[
+      {
+        "name":"Pierangelo Granatelli",
+        "roles":[
+          "Ecologist",
+          "Activist"
+        ]
+      },
+      {
+        "name":"Paloma Morrocco",
+        "roles":[
+          "Environmental Engineer",
+          "Scientist"
+        ]
+      },
+      {
+        "name":"Aurora Munari-Golino",
+        "roles":[
+          "Wildlife Officer",
+          "Park Ranger"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Marzaglia",
+    "date":1720742400000,
+    "uuid":"24eab536-f906-4da6-9d29-a1a6457bb633"
+  },
+  {
+    "people":[
+      {
+        "name":"Annetta Fcagotto",
+        "roles":[
+          "Spectator",
+          "Audience Member"
+        ]
+      },
+      {
+        "name":"Sig.ra Concetta Bertoni",
+        "roles":[
+          "Cultural Historian",
+          "Fan"
+        ]
+      },
+      {
+        "name":"Jolanda Scotto",
+        "roles":[
+          "Gallery Owner"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Literature",
+    "place":"Laatsc",
+    "date":1740960000000,
+    "uuid":"2b373c87-d768-4af0-b6ca-7ddc905ab923"
+  },
+  {
+    "people":[
+      {
+        "name":"Arturo Pergolesi-Monaco",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Susanna Ferretti-Lerner",
+        "roles":[
+          "Professor"
+        ]
+      },
+      {
+        "name":"Paoletta Parmitano",
+        "roles":[
+          "Science Communicator"
+        ]
+      },
+      {
+        "name":"Sig.ra Gemma Berrè",
+        "roles":[
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Guarino Vezzali",
+        "roles":[
+          "Lab Technician"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Astronomy",
+    "place":"Pedrocca",
+    "date":1745280000000,
+    "uuid":"18aa5fe4-11a1-45bf-9a17-311bc896189a"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig.ra Ninetta Priuli",
+        "roles":[
+          "Investor",
+          "Banker"
+        ]
+      },
+      {
+        "name":"Sig.ra Cristina Pace",
+        "roles":[
+          "Accountant"
+        ]
+      },
+      {
+        "name":"Torquato Toldo",
+        "roles":[
+          "Business Owner",
+          "Trader"
+        ]
+      },
+      {
+        "name":"Mercedes Ludovisi-Taccola",
+        "roles":[
+          "Tax Official"
+        ]
+      },
+      {
+        "name":"Morena Luzi-Abbagnale",
+        "roles":[
+          "Financial Analyst"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"GDP",
+    "place":"Dresano",
+    "date":1735689600000,
+    "uuid":"6e21eadb-2e70-4ced-9347-a4e9cd341630"
+  },
+  {
+    "people":[
+      {
+        "name":"Monica Luna",
+        "roles":[
+          "Researcher",
+          "Nurse"
+        ]
+      },
+      {
+        "name":"Nanni Munari",
+        "roles":[
+          "Volunteer",
+          "Caregiver"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Villaggio Busonera",
+    "date":1731024000000,
+    "uuid":"81516984-ad32-4255-b595-acd935bde972"
+  },
+  {
+    "people":[
+      {
+        "name":"Flavio Fo-Tognazzi",
+        "roles":[
+          "Database Administrator",
+          "Systems Administrator"
+        ]
+      },
+      {
+        "name":"Loredana Sauli",
+        "roles":[
+          "CEO",
+          "Technical Writer"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Software",
+    "place":"Nese",
+    "date":1719532800000,
+    "uuid":"450137d6-1dcd-404d-8d7b-e830b33c07cb"
+  },
+  {
+    "people":[
+      {
+        "name":"Is aDallaraM-ercantini",
+        "roles":[
+          "Epidemiologist"
+        ]
+      },
+      {
+        "name":"Sig.ra Ninetta Gagliardi",
+        "roles":[
+          "Therapist",
+          "Doctor"
+        ]
+      },
+      {
+        "name":"Federico Stucchi-Gatto",
+        "roles":[
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Amico Montanari-Goldoni",
+        "roles":[
+          "Medical Technician",
+          "Health Administrator"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Credera",
+    "date":1724112000000,
+    "uuid":"9d1fdd05-db47-40b1-9ee3-52ed573b0f1d"
+  },
+  {
+    "people":[
+      {
+        "name":"Silvestro Barese-Donoatoni",
+        "roles":[
+          "Security Analyst",
+          "Cloud Architect"
+        ]
+      },
+      {
+        "name":"Carolina Majewski",
+        "roles":[
+          "QA Tester",
+          "Product Manager"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Gadgets",
+    "place":"Monte Vidon Combatte",
+    "date":1750032000000,
+    "uuid":"f07e11b2-8215-4aef-a5b8-3a8a4b4c82ed"
+  },
+  {
+    "people":[
+      {
+        "name":"Grsielda Costahnzi-Baroffio",
+        "roles":[
+          "Playwright",
+          "Author"
+        ]
+      },
+      {
+        "name":"Giustino Basadonna",
+        "roles":[
+          "Cultural Historian"
+        ]
+      },
+      {
+        "name":"Piergiuseppe Simeoni",
+        "roles":[
+          "Audience Member",
+          "Spectator"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Cinema",
+    "place":"Fagnano Alto",
+    "date":1746403200000,
+    "uuid":"f80b5beb-81f2-495a-a574-94857d6b2c34"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Lidia Veneziano",
+        "roles":[
+          "Economist"
+        ]
+      },
+      {
+        "name":"Greca Jilani",
+        "roles":[
+          "Consumer"
+        ]
+      },
+      {
+        "name":"Gloria Monaco",
+        "roles":[
+          "Financial Analyst"
+        ]
+      },
+      {
+        "name":"Sig.ra Claudia Riccardi",
+        "roles":[
+          "Investor",
+          "Banker"
+        ]
+      },
+      {
+        "name":"Dott. Gastone Porcellato",
+        "roles":[
+          "Regulator",
+          "Tax Official"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"GDP",
+    "place":"Saletta",
+    "date":1736121600000,
+    "uuid":"4378eaf9-2a6e-40ed-b3d7-2d67a18b3bc3"
+  },
+  {
+    "people":[
+      {
+        "name":"Tonnio Foraz-Mascheroni",
+        "roles":[
+          "Financial Analyst"
+        ]
+      },
+      {
+        "name":"Livio Liverotti-Tartini",
+        "roles":[
+          "Employee"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Inflation",
+    "place":"Caprarica Di Lecce",
+    "date":1726704000000,
+    "uuid":"806bd84b-5274-404a-abf2-1e10c64cf35e"
+  },
+  {
+    "people":[
+      {
+        "name":"Cassandra Botta",
+        "roles":[
+          "Sponsor",
+          "Coach"
+        ]
+      },
+      {
+        "name":"Baccio Spinelli-Baroffio",
+        "roles":[
+          "Fan"
+        ]
+      },
+      {
+        "name":"Sig.ra Annetta Antonacci",
+        "roles":[
+          "Team Doctor",
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Dott. Vittorio Parpinel",
+        "roles":[
+          "Trainer",
+          "Physiotherapist"
+        ]
+      },
+      {
+        "name":"Dott. Antonietta Maccanelli",
+        "roles":[
+          "Sports Photographer"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Doping",
+    "place":"Campiglia Dei Berici",
+    "date":1743379200000,
+    "uuid":"503b38b7-ce95-462c-8ed2-b71bfee28ae1"
+  },
+  {
+    "people":[
+      {
+        "name":"Gastone Doria",
+        "roles":[
+          "Physicist"
+        ]
+      },
+      {
+        "name":"Daria Palazzo-Fantozzi",
+        "roles":[
+          "Chemist",
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Pierina Cantimori",
+        "roles":[
+          "Engineer",
+          "Biologist"
+        ]
+      },
+      {
+        "name":"Lorenzo Gianetti",
+        "roles":[
+          "Student",
+          "Professor"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"Göflan",
+    "date":1736640000000,
+    "uuid":"c21abd85-c56d-4d1b-90c9-7c7c21fc8dd8"
+  },
+  {
+    "people":[
+      {
+        "name":"uLchino Fieramosca-Scarmaucci",
+        "roles":[
+          "Engineer"
+        ]
+      },
+      {
+        "name":"Lidia Maglio",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Dott. Raffaello Lancisi",
+        "roles":[
+          "Student",
+          "Lab Technician"
+        ]
+      },
+      {
+        "name":"Sig.ra Giorgia Dossetti",
+        "roles":[
+          "Science Communicator"
+        ]
+      },
+      {
+        "name":"Calcedonio Salvo-Ovadia",
+        "roles":[
+          "Chemist",
+          "Biologist"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Physics",
+    "place":"La Salute Di Livenza",
+    "date":1724025600000,
+    "uuid":"fcf01f4c-6d89-4b58-bac2-027823627861"
+  },
+  {
+    "people":[
+      {
+        "name":"Antonina Carocci-Capuana",
+        "roles":[
+          "Volunteer",
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Lodovico Rosmini",
+        "roles":[
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Sig. Dino Morandi",
+        "roles":[
+          "Patient",
+          "Mental Health Counselor"
+        ]
+      },
+      {
+        "name":"Germana Piccio-Vianello",
+        "roles":[
+          "Epidemiologist"
+        ]
+      },
+      {
+        "name":"Mirko Onisto",
+        "roles":[
+          "Paramedic"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Nutrition",
+    "place":"Sant'Orsola",
+    "date":1745798400000,
+    "uuid":"9935cb0a-255c-439b-8cf8-00ff3efc70a9"
+  },
+  {
+    "people":[
+      {
+        "name":"Liana Scaramucci",
+        "roles":[
+          "CTO"
+        ]
+      },
+      {
+        "name":"Eva Branciforte",
+        "roles":[
+          "Systems Administrator"
+        ]
+      },
+      {
+        "name":"Annalisa Caracciolo",
+        "roles":[
+          "CEO"
+        ]
+      },
+      {
+        "name":"Agostino Cannizzaro",
+        "roles":[
+          "Database Administrator",
+          "Developer"
+        ]
+      },
+      {
+        "name":"Ignazio Spinelli",
+        "roles":[
+          "UX Designer",
+          "QA Tester"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Cybersecurity",
+    "place":"Madonna Di Campiglio",
+    "date":1722124800000,
+    "uuid":"6cbf7fb0-68f5-4393-bf34-ad4eec78e61e"
+  },
+  {
+    "people":[
+      {
+        "name":"Liliana Majorana-Aporti",
+        "roles":[
+          "Audience Member",
+          "Cultural Historian"
+        ]
+      },
+      {
+        "name":"Gabriella Fantozzi",
+        "roles":[
+          "Museum Staff",
+          "Festival Organizer"
+        ]
+      },
+      {
+        "name":"Aria Ginese",
+        "roles":[
+          "Gallery Owner",
+          "Theatre Technician"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Santa Maria Di Zevio",
+    "date":1733529600000,
+    "uuid":"f2bfee32-3b9f-4477-b197-71c95a9e0030"
+  },
+  {
+    "people":[
+      {
+        "name":"Amalia Cherubini",
+        "roles":[
+          "Judge"
+        ]
+      },
+      {
+        "name":"Stefania Cutrufo-Bonomo",
+        "roles":[
+          "Forensic Expert"
+        ]
+      },
+      {
+        "name":"Nedda Giulietti-Battisti",
+        "roles":[
+          "Coroner",
+          "Prosecutor"
+        ]
+      },
+      {
+        "name":"Domenico Gatto",
+        "roles":[
+          "Thief",
+          "Drug Dealer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Drug Trafficking",
+    "place":"Poggio Mirteto Scalo",
+    "date":1735862400000,
+    "uuid":"faf3561e-e157-44f8-9990-b690d4b090e8"
+  },
+  {
+    "people":[
+      {
+        "name":"Melania Versace",
+        "roles":[
+          "Theatre Technician",
+          "Gallery Owner"
+        ]
+      },
+      {
+        "name":"Sig.ra Mariana Ughi",
+        "roles":[
+          "Museum Staff"
+        ]
+      },
+      {
+        "name":"Dott. Germana Papetti",
+        "roles":[
+          "Fan",
+          "Cultural Historian"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Literature",
+    "place":"Solarussa",
+    "date":1720396800000,
+    "uuid":"26b983ae-9e3d-4a33-a460-19f033abaf84"
+  },
+  {
+    "people":[
+      {
+        "name":"Emilio Barcella",
+        "roles":[
+          "Fan",
+          "Commentator"
+        ]
+      },
+      {
+        "name":"Federica Gotti",
+        "roles":[
+          "Mascot",
+          "Event Organizer"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Arenabianca",
+    "date":1735257600000,
+    "uuid":"6863713a-e952-4be3-aaa9-9d69c1fb1835"
+  },
+  {
+    "people":[
+      {
+        "name":"Bernardo Florio",
+        "roles":[
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Umberto Pratesi",
+        "roles":[
+          "Epidemiologist"
+        ]
+      },
+      {
+        "name":"Ornella Schiavo-Dossetti",
+        "roles":[
+          "Nurse"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Frangar",
+    "date":1731888000000,
+    "uuid":"6f3999bf-22a8-4f8e-b1e4-c4a9b65cf672"
+  },
+  {
+    "people":[
+      {
+        "name":"rOazio Badnello",
+        "roles":[
+          "Minister"
+        ]
+      },
+      {
+        "name":"Pietro Grifeo",
+        "roles":[
+          "Journalist"
+        ]
+      },
+      {
+        "name":"Durante Bellini-Bonolis",
+        "roles":[
+          "Lobbyist"
+        ]
+      },
+      {
+        "name":"Martino Canova",
+        "roles":[
+          "Party Leader"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Campitello",
+    "date":1741478400000,
+    "uuid":"688a14b1-0829-42f1-8b36-06f7e71be182"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Gianmarco Rizzo",
+        "roles":[
+          "CEO",
+          "UX Designer"
+        ]
+      },
+      {
+        "name":"Maria Infantino",
+        "roles":[
+          "QA Tester"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Gadgets",
+    "place":"Agnana Calabra",
+    "date":1720483200000,
+    "uuid":"1ecde610-88f8-47f9-addc-62a98e57fd52"
+  },
+  {
+    "people":[
+      {
+        "name":"Damiano Tolentino",
+        "roles":[
+          "Sports Journalist",
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Dott. Alfredo Fibonacci",
+        "roles":[
+          "Commentator",
+          "Agent"
+        ]
+      },
+      {
+        "name":"Licia Ferragamo",
+        "roles":[
+          "Physiotherapist"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Ripa Teatina",
+    "date":1741564800000,
+    "uuid":"f16a3b31-fc2f-4f82-857a-b5944cddc43d"
+  },
+  {
+    "people":[
+      {
+        "name":"Sophia Nicoletti",
+        "roles":[
+          "Event Organizer",
+          "Sports Photographer"
+        ]
+      },
+      {
+        "name":"Ermenegildo Zoppetto",
+        "roles":[
+          "Trainer",
+          "Coach"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Telese Terme",
+    "date":1739491200000,
+    "uuid":"113cee98-e9f0-45e2-a073-62015c6baf0b"
+  },
+  {
+    "people":[
+      {
+        "name":"Alfredo Scialpi",
+        "roles":[
+          "Journalist"
+        ]
+      },
+      {
+        "name":"Marco Gentilini",
+        "roles":[
+          "Activist",
+          "Conservationist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Climate Change",
+    "place":"Isola Di Capo Rizzuto",
+    "date":1733356800000,
+    "uuid":"4e66fca1-8c48-47fb-8f39-d0f57883de00"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig. Massimo Lattuada",
+        "roles":[
+          "Mascot"
+        ]
+      },
+      {
+        "name":"Tiziana Bottigliero-Ginese",
+        "roles":[
+          "Sports Journalist"
+        ]
+      },
+      {
+        "name":"Vincenza Ferrara",
+        "roles":[
+          "Sports Photographer",
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Donatella Pederiva",
+        "roles":[
+          "Fan"
+        ]
+      },
+      {
+        "name":"Alderano Magnani",
+        "roles":[
+          "Coach",
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Dott. Dante Rossini",
+        "roles":[
+          "Team Doctor",
+          "Physiotherapist"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Sant'Antonio In Bosco",
+    "date":1733529600000,
+    "uuid":"6ede7871-a4f1-4b60-a3f5-4215b092a1fc"
+  },
+  {
+    "people":[
+      {
+        "name":"Giampiero Ceschi-Satriani",
+        "roles":[
+          "Consul"
+        ]
+      },
+      {
+        "name":"Fabia Sansoni",
+        "roles":[
+          "Ambassador"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Election",
+    "place":"Fiorenzuola D'Arda",
+    "date":1747699200000,
+    "uuid":"0dfaf836-e8a6-479f-93cc-8ffcf193fd7d"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Fabio Gussoni",
+        "roles":[
+          "Therapist",
+          "Doctor"
+        ]
+      },
+      {
+        "name":"Dott. Ninetta Ruffini",
+        "roles":[
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Paoletta Grimani",
+        "roles":[
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Pina Metella",
+        "roles":[
+          "Volunteer"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Castello Di Cisterna",
+    "date":1744761600000,
+    "uuid":"ea330a23-c6a3-4e3d-8ce7-50811d56944c"
+  },
+  {
+    "people":[
+      {
+        "name":"Rosaria Norbiato",
+        "roles":[
+          "Festival Organizer"
+        ]
+      },
+      {
+        "name":"Paoletta Roccabonella",
+        "roles":[
+          "Gallery Owner"
+        ]
+      },
+      {
+        "name":"Aurora Vecellio",
+        "roles":[
+          "Audience Member"
+        ]
+      },
+      {
+        "name":"Allegra Morabito",
+        "roles":[
+          "Theatre Technician"
+        ]
+      },
+      {
+        "name":"Gianluigi Ovadia",
+        "roles":[
+          "Museum Staff"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Galluzzo",
+    "date":1736640000000,
+    "uuid":"57d59895-4dbf-4f36-9dba-65ce1071828e"
+  },
+  {
+    "people":[
+      {
+        "name":"Ugo Bramante",
+        "roles":[
+          "Consumer"
+        ]
+      },
+      {
+        "name":"Roman Gioberti",
+        "roles":[
+          "Unemployed"
+        ]
+      },
+      {
+        "name":"Gioachino Bocelli",
+        "roles":[
+          "Entrepreneur",
+          "Consultant"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Unemployment",
+    "place":"Poggio Mirteto Stazione",
+    "date":1722816000000,
+    "uuid":"6dbdaaf8-b04f-4e66-9c47-5a3a9e45c69f"
+  },
+  {
+    "people":[
+      {
+        "name":"Fulvio Caccioppoli",
+        "roles":[
+          "Auditor",
+          "Entrepreneur"
+        ]
+      },
+      {
+        "name":"Vincentio Ferretti-Tebaldi",
+        "roles":[
+          "Consumer",
+          "Unemployed"
+        ]
+      },
+      {
+        "name":"Elisa Borrani-Grifeo",
+        "roles":[
+          "Tax Official"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"GDP",
+    "place":"Treglio",
+    "date":1742342400000,
+    "uuid":"e1221d6e-8e41-4ebd-aff9-a951587bc096"
+  },
+  {
+    "people":[
+      {
+        "name":"Chiara Rinaldi",
+        "roles":[
+          "Commentator",
+          "Statistician"
+        ]
+      },
+      {
+        "name":"Gastone Scarlatti-Petruzzi",
+        "roles":[
+          "Agent"
+        ]
+      },
+      {
+        "name":"Dott. Coluccio Pepe",
+        "roles":[
+          "Sports Photographer",
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Dott. Ottone Marino",
+        "roles":[
+          "Mascot"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Cavagnolo",
+    "date":1721088000000,
+    "uuid":"9955a0b6-958c-4da0-a0f2-06a77ebba9ea"
+  },
+  {
+    "people":[
+      {
+        "name":"Lando Tosi",
+        "roles":[
+          "Volunteer",
+          "Patient"
+        ]
+      },
+      {
+        "name":"Silvia Omma-Virgilio",
+        "roles":[
+          "Paramedic",
+          "Health Administrator"
+        ]
+      },
+      {
+        "name":"Ilaria Donini-Verdi",
+        "roles":[
+          "Mental Health Counselor",
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Damiano Camuccini",
+        "roles":[
+          "Epidemiologist",
+          "Medical Technician"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Nutrition",
+    "place":"Valmorsel",
+    "date":1733097600000,
+    "uuid":"09b181e5-943b-40f9-950c-a62624a9f9bd"
+  },
+  {
+    "people":[
+      {
+        "name":"Lolita Boezio",
+        "roles":[
+          "Gallery Owner",
+          "Theatre Technician"
+        ]
+      },
+      {
+        "name":"Camillo Alboni",
+        "roles":[
+          "Spectator",
+          "Fan"
+        ]
+      },
+      {
+        "name":"Sig.ra Gianna Gadda",
+        "roles":[
+          "Audience Member",
+          "Cultural Historian"
+        ]
+      },
+      {
+        "name":"Angelina Ficino",
+        "roles":[
+          "Museum Staff"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Literature",
+    "place":"Orta Novarese",
+    "date":1743033600000,
+    "uuid":"c126ffd5-1996-4ba9-a9d3-1ce6346d3bb9"
+  },
+  {
+    "people":[
+      {
+        "name":"Lina Pacetti",
+        "roles":[
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Sig. Gabriele Galiazzo",
+        "roles":[
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Matilda Ludovisi",
+        "roles":[
+          "Agent"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Injury",
+    "place":"Nigoline",
+    "date":1723161600000,
+    "uuid":"62325889-ad0c-4f2c-97df-698d543cea7a"
+  },
+  {
+    "people":[
+      {
+        "name":"Ida Rapisardi",
+        "roles":[
+          "Statistician",
+          "Commentator"
+        ]
+      },
+      {
+        "name":"Lauretta Vercelloni",
+        "roles":[
+          "Sponsor"
+        ]
+      },
+      {
+        "name":"Alfredo Frescobaldi",
+        "roles":[
+          "Fan",
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Liana Crespi",
+        "roles":[
+          "Physiotherapist"
+        ]
+      },
+      {
+        "name":"Rosalia Tencalla",
+        "roles":[
+          "Sports Photographer"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Agnano",
+    "date":1743811200000,
+    "uuid":"f0dbd8e8-ad42-47f2-a5ab-3efeb692761b"
+  },
+  {
+    "people":[
+      {
+        "name":"Panfilo Tamburi",
+        "roles":[
+          "Patient"
+        ]
+      },
+      {
+        "name":"Gianni Casale",
+        "roles":[
+          "Paramedic",
+          "Health Administrator"
+        ]
+      },
+      {
+        "name":"Mattia Pasqua",
+        "roles":[
+          "Nurse",
+          "Doctor"
+        ]
+      },
+      {
+        "name":"Giuliana Casellati",
+        "roles":[
+          "Mental Health Counselor"
+        ]
+      },
+      {
+        "name":"Orazio Gentili",
+        "roles":[
+          "Caregiver",
+          "Volunteer"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Mental Health",
+    "place":"Colico",
+    "date":1749427200000,
+    "uuid":"1c76d4e1-430e-4098-b913-b93df9126a17"
+  },
+  {
+    "people":[
+      {
+        "name":"Raffaellino Barbarigo",
+        "roles":[
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Arturo Paruta",
+        "roles":[
+          "Government Official",
+          "Volunteer"
+        ]
+      },
+      {
+        "name":"Franco Pagliaro",
+        "roles":[
+          "Journalist",
+          "Environmental Engineer"
+        ]
+      },
+      {
+        "name":"Sig.ra Bianca Priuli",
+        "roles":[
+          "Citizen"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Poggioreale",
+    "date":1727568000000,
+    "uuid":"58378ad3-aa3f-420d-9079-6416bb23fede"
+  },
+  {
+    "people":[
+      {
+        "name":"Alderano Salandra",
+        "roles":[
+          "Gang Member"
+        ]
+      },
+      {
+        "name":"Claudia Trevisani",
+        "roles":[
+          "Bailiff"
+        ]
+      },
+      {
+        "name":"Marisa Iannuzzi",
+        "roles":[
+          "Coroner",
+          "Court Clerk"
+        ]
+      },
+      {
+        "name":"Annalisa Ammaniti",
+        "roles":[
+          "Detective"
+        ]
+      },
+      {
+        "name":"Goffredo Corbo",
+        "roles":[
+          "Lawyer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Drug Trafficking",
+    "place":"Borgo Alla Collina",
+    "date":1746835200000,
+    "uuid":"4c00f51f-fdd8-4c4b-a0be-5153cd82fb83"
+  },
+  {
+    "people":[
+      {
+        "name":"Jacopo Sgalambro",
+        "roles":[
+          "Climate Specialist"
+        ]
+      },
+      {
+        "name":"Eugenia Trupiano",
+        "roles":[
+          "Environmental Engineer"
+        ]
+      },
+      {
+        "name":"Ennio Bartoli",
+        "roles":[
+          "Conservationist",
+          "Ecologist"
+        ]
+      },
+      {
+        "name":"Gianna Sforza",
+        "roles":[
+          "Wildlife Officer",
+          "Park Ranger"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Climate Change",
+    "place":"Terlano",
+    "date":1744243200000,
+    "uuid":"8e9d993a-40b4-47eb-8c12-f55808aa5931"
+  },
+  {
+    "people":[
+      {
+        "name":"Isa Toscani",
+        "roles":[
+          "Festival Organizer"
+        ]
+      },
+      {
+        "name":"Simonetta Caracciolo",
+        "roles":[
+          "Fan",
+          "Cultural Historian"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Literature",
+    "place":"Castel Raniero",
+    "date":1740009600000,
+    "uuid":"06ab3d2b-5db7-4b3c-938b-0b3f9b783e7c"
+  },
+  {
+    "people":[
+      {
+        "name":"Priscilla Tiepolo",
+        "roles":[
+          "Epidemiologist",
+          "Health Administrator"
+        ]
+      },
+      {
+        "name":"Maria Sgalambro",
+        "roles":[
+          "Mental Health Counselor",
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Bernardo Abba",
+        "roles":[
+          "Medical Technician"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Corrubbio",
+    "date":1735084800000,
+    "uuid":"06587abb-fce1-4bed-bbbb-16b5de667113"
+  },
+  {
+    "people":[
+      {
+        "name":"Evangelista Pascarella-Montecchi",
+        "roles":[
+          "Consumer"
+        ]
+      },
+      {
+        "name":"Fiamma Dallapé",
+        "roles":[
+          "Tax Official"
+        ]
+      },
+      {
+        "name":"Arturo Maderno",
+        "roles":[
+          "Regulator",
+          "Financial Analyst"
+        ]
+      },
+      {
+        "name":"Mercedes Ceri",
+        "roles":[
+          "Business Owner"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"GDP",
+    "place":"St. Martin in Thurn\/S. Martin de Tor",
+    "date":1731456000000,
+    "uuid":"7c11fa9b-7060-46e8-971a-e59e284b985c"
+  },
+  {
+    "people":[
+      {
+        "name":"Luca Pederiva",
+        "roles":[
+          "Author"
+        ]
+      },
+      {
+        "name":"Sandra Giannotti",
+        "roles":[
+          "Cultural Historian",
+          "Audience Member"
+        ]
+      },
+      {
+        "name":"Giosuè Gargallo",
+        "roles":[
+          "Spectator",
+          "Fan"
+        ]
+      },
+      {
+        "name":"Lolita Ceci-Zoppetto",
+        "roles":[
+          "Playwright",
+          "Artist"
+        ]
+      },
+      {
+        "name":"Dott. Giosuè Pietrangeli",
+        "roles":[
+          "Museum Staff",
+          "Gallery Owner"
+        ]
+      },
+      {
+        "name":"Raimondo Gigli",
+        "roles":[
+          "Festival Organizer"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Festival",
+    "place":"Niguarda",
+    "date":1744070400000,
+    "uuid":"33d30712-23e5-42d4-aef3-cd60f6e5a726"
+  },
+  {
+    "people":[
+      {
+        "name":"Giosuè Muti",
+        "roles":[
+          "Police Officer"
+        ]
+      },
+      {
+        "name":"Gian Martinelli",
+        "roles":[
+          "Thief"
+        ]
+      },
+      {
+        "name":"Corrado Pellico-Cicala",
+        "roles":[
+          "Witness",
+          "Advocate"
+        ]
+      },
+      {
+        "name":"Marcantonio Acerbi",
+        "roles":[
+          "Victim",
+          "Reporter"
+        ]
+      },
+      {
+        "name":"Amadeo Gioberti",
+        "roles":[
+          "Gang Member"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Filorsi",
+    "date":1725494400000,
+    "uuid":"7cdca419-1018-453b-9d6a-cffae47aab08"
+  },
+  {
+    "people":[
+      {
+        "name":"Carolina Vianello",
+        "roles":[
+          "Court Clerk",
+          "Bailiff"
+        ]
+      },
+      {
+        "name":"Lodovico Bellò",
+        "roles":[
+          "Crime Scene Investigator",
+          "Police Officer"
+        ]
+      },
+      {
+        "name":"Dott. Morena Traetta",
+        "roles":[
+          "Witness",
+          "Reporter"
+        ]
+      },
+      {
+        "name":"Giuseppina Prada",
+        "roles":[
+          "Advocate"
+        ]
+      },
+      {
+        "name":"Dott. Tina Gibilisco",
+        "roles":[
+          "Prison Officer",
+          "Prosecutor"
+        ]
+      },
+      {
+        "name":"Azeglio Longhena",
+        "roles":[
+          "Mafia Boss",
+          "Suspect"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Drug Trafficking",
+    "place":"Callabiana",
+    "date":1722124800000,
+    "uuid":"8a3471a1-02dd-4622-8b1d-72f5e1bb02c4"
+  },
+  {
+    "people":[
+      {
+        "name":"Ugo Marino",
+        "roles":[
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Vittoria Buonauro",
+        "roles":[
+          "Campaign Manager",
+          "Government Official"
+        ]
+      },
+      {
+        "name":"Edoardo Rosmini",
+        "roles":[
+          "Politician",
+          "Party Leader"
+        ]
+      },
+      {
+        "name":"Sig. Ignazio Scotti",
+        "roles":[
+          "Minister",
+          "Activist"
+        ]
+      },
+      {
+        "name":"Sabatino Serlupi",
+        "roles":[
+          "Analyst",
+          "Advisor"
+        ]
+      },
+      {
+        "name":"Ferdinando Tartaglia",
+        "roles":[
+          "Diplomat",
+          "Consul"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Election",
+    "place":"Rosario Valanidi",
+    "date":1749254400000,
+    "uuid":"474930ab-8503-469f-93a0-237bbedcdbc1"
+  },
+  {
+    "people":[
+      {
+        "name":"Ruggiero Almagià",
+        "roles":[
+          "Regulator"
+        ]
+      },
+      {
+        "name":"Sig.ra Maura Bodoni",
+        "roles":[
+          "Tax Official",
+          "Financial Analyst"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Foggia",
+    "date":1732060800000,
+    "uuid":"c6f0d15f-f5b0-441c-9ea6-943b6cb66ecc"
+  },
+  {
+    "people":[
+      {
+        "name":"Alessio Folliero",
+        "roles":[
+          "Voter",
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Rossana Branciforte-Emo",
+        "roles":[
+          "Government Official"
+        ]
+      },
+      {
+        "name":"Diana Ferrabosco",
+        "roles":[
+          "Journalist",
+          "Advisor"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Corruption",
+    "place":"Montecarotto",
+    "date":1740528000000,
+    "uuid":"dda320f8-ebd0-450d-8dfe-6fa08f6ce10e"
+  },
+  {
+    "people":[
+      {
+        "name":"Gelsomina Franscini-Pelli",
+        "roles":[
+          "Science Communicator"
+        ]
+      },
+      {
+        "name":"Gioachino Iannucci-Mercati",
+        "roles":[
+          "Professor",
+          "Student"
+        ]
+      },
+      {
+        "name":"Greco Pace",
+        "roles":[
+          "Inventor",
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Dott. Ermes Medici",
+        "roles":[
+          "Postdoctoral Fellow",
+          "Lab Technician"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"Piana Crixia",
+    "date":1736726400000,
+    "uuid":"1ac4a5c6-0574-4e7c-a404-1ac2727e3b85"
+  },
+  {
+    "people":[
+      {
+        "name":"Bartolomeo Gucci",
+        "roles":[
+          "Paramedic",
+          "Health Administrator"
+        ]
+      },
+      {
+        "name":"Roberta Bartoli",
+        "roles":[
+          "Patient"
+        ]
+      },
+      {
+        "name":"Dott. Lisa Coardi",
+        "roles":[
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Coluccio Contarini-Grimani",
+        "roles":[
+          "Epidemiologist",
+          "Medical Technician"
+        ]
+      },
+      {
+        "name":"Amleto Puccini",
+        "roles":[
+          "Mental Health Counselor"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Impalata",
+    "date":1732838400000,
+    "uuid":"ab4df3ae-40f0-4bb6-aca5-48f8fdf8fa0c"
+  },
+  {
+    "people":[
+      {
+        "name":"Cassandra Petrocelli",
+        "roles":[
+          "Ecologist"
+        ]
+      },
+      {
+        "name":"Liberto Borromeo",
+        "roles":[
+          "Government Official",
+          "Researcher"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Climate Change",
+    "place":"Stellanello",
+    "date":1723420800000,
+    "uuid":"c34bafbc-88f1-4e4f-9571-c10182b60499"
+  },
+  {
+    "people":[
+      {
+        "name":"Martina Santorio",
+        "roles":[
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Corrado Pagnotto-Cianciolo",
+        "roles":[
+          "Environmental Engineer"
+        ]
+      },
+      {
+        "name":"Pasqual Cusano",
+        "roles":[
+          "Climate Specialist",
+          "Wildlife Officer"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Bossico",
+    "date":1729382400000,
+    "uuid":"156b8b20-760a-453e-9e9a-347b4da53528"
+  },
+  {
+    "people":[
+      {
+        "name":"Licia Marrone",
+        "roles":[
+          "Government Official",
+          "Citizen"
+        ]
+      },
+      {
+        "name":"Licia Gemito-Gargallo",
+        "roles":[
+          "Journalist"
+        ]
+      },
+      {
+        "name":"Ettore Gozzano",
+        "roles":[
+          "Climate Specialist",
+          "Wildlife Officer"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Natural Disaster",
+    "place":"Mazzolla",
+    "date":1737763200000,
+    "uuid":"8301b0cb-5a19-4e7f-9c24-f0ad97c56bd3"
+  },
+  {
+    "people":[
+      {
+        "name":"Ilaria Bellini",
+        "roles":[
+          "Theatre Technician",
+          "Festival Organizer"
+        ]
+      },
+      {
+        "name":"Gianfrancesco Contrafatto",
+        "roles":[
+          "Poet"
+        ]
+      },
+      {
+        "name":"Zaira Giannetti",
+        "roles":[
+          "Fan",
+          "Cultural Historian"
+        ]
+      },
+      {
+        "name":"Leone Caffarelli",
+        "roles":[
+          "Gallery Owner"
+        ]
+      },
+      {
+        "name":"Dott. Augusto Anguissola",
+        "roles":[
+          "Author",
+          "Playwright"
+        ]
+      },
+      {
+        "name":"Lando Amato",
+        "roles":[
+          "Museum Staff"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Literature",
+    "place":"Vissandone",
+    "date":1740009600000,
+    "uuid":"f56a1d36-56d2-478f-a3b5-57e8f9f7b2e0"
+  },
+  {
+    "people":[
+      {
+        "name":"Silvia Santoro",
+        "roles":[
+          "Analyst",
+          "Voter"
+        ]
+      },
+      {
+        "name":"Dott. Rosa Cardano",
+        "roles":[
+          "Advisor"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Election",
+    "place":"Pratovecchio",
+    "date":1734739200000,
+    "uuid":"33a57595-a324-4e60-bf32-b15330d54624"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Elmo Donati",
+        "roles":[
+          "Database Administrator"
+        ]
+      },
+      {
+        "name":"Gianluigi Muti",
+        "roles":[
+          "Cloud Architect",
+          "Ethical Hacker"
+        ]
+      },
+      {
+        "name":"Dott. Ugo Argan",
+        "roles":[
+          "QA Tester",
+          "Product Manager"
+        ]
+      },
+      {
+        "name":"Piergiorgio Morpurgo",
+        "roles":[
+          "Engineer"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Gadgets",
+    "place":"Castelletto Di Branduzzo",
+    "date":1728691200000,
+    "uuid":"c64104cf-7d4e-465c-b7ef-60f4627104c6"
+  },
+  {
+    "people":[
+      {
+        "name":"Vittorio Caccoippoli",
+        "roles":[
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Susanna Mancini-Pertini",
+        "roles":[
+          "Inventor",
+          "Data Analyst"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Physics",
+    "place":"Trezzone",
+    "date":1727222400000,
+    "uuid":"91060f89-14f4-4630-89e9-ed008a10bb1b"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Aruora aMzzocchi",
+        "roles":[
+          "Drug Dealer"
+        ]
+      },
+      {
+        "name":"Marina Micheletti",
+        "roles":[
+          "Gang Member",
+          "Mafia Boss"
+        ]
+      },
+      {
+        "name":"Susanna Udinese",
+        "roles":[
+          "Thief"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Drug Trafficking",
+    "place":"Colle Umberto",
+    "date":1721779200000,
+    "uuid":"7b032dc0-e88a-478b-bdaa-ffef1ff902c9"
+  },
+  {
+    "people":[
+      {
+        "name":"Riccardo Toninelli",
+        "roles":[
+          "Commentator",
+          "Statistician"
+        ]
+      },
+      {
+        "name":"Paloma Ciani",
+        "roles":[
+          "Mascot"
+        ]
+      },
+      {
+        "name":"Agostino Nadi",
+        "roles":[
+          "Agent",
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Daria Mantegna-Storladi",
+        "roles":[
+          "Fan"
+        ]
+      },
+      {
+        "name":"Dott. Ippazio Tencalla",
+        "roles":[
+          "Event Organizer",
+          "Sports Photographer"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Pertica Bassa",
+    "date":1737763200000,
+    "uuid":"90fbce58-87f8-4906-a015-8e408a89eaff"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Claudio Leopardi",
+        "roles":[
+          "Professor",
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Maria Garrone",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Imelda Crisafulli",
+        "roles":[
+          "Biologist",
+          "Physicist"
+        ]
+      },
+      {
+        "name":"Giancarlo Speri",
+        "roles":[
+          "Inventor",
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Letizia Iannuzzi",
+        "roles":[
+          "Science Communicator"
+        ]
+      },
+      {
+        "name":"Gaetano Maderno",
+        "roles":[
+          "Student",
+          "Lab Technician"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Physics",
+    "place":"Acerenza",
+    "date":1737590400000,
+    "uuid":"bb44ae3d-72f7-4f1d-a1f2-87e356321e93"
+  },
+  {
+    "people":[
+      {
+        "name":"Claudio Ferretti",
+        "roles":[
+          "Wildlife Officer",
+          "Climate Specialist"
+        ]
+      },
+      {
+        "name":"Sig.ra Sonia Mancini",
+        "roles":[
+          "Environmental Engineer",
+          "Conservationist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Vicenza",
+    "date":1725062400000,
+    "uuid":"7dec14d3-2034-4d88-83ab-a09980e379a9"
+  },
+  {
+    "people":[
+      {
+        "name":"Lucrezia Paruta-Marcacci",
+        "roles":[
+          "Financial Analyst",
+          "Tax Official"
+        ]
+      },
+      {
+        "name":"Alessia Venturi",
+        "roles":[
+          "Regulator"
+        ]
+      },
+      {
+        "name":"Antonia Giammusso",
+        "roles":[
+          "Employee",
+          "Unemployed"
+        ]
+      },
+      {
+        "name":"Ermanno Gozzano",
+        "roles":[
+          "Business Owner",
+          "Economist"
+        ]
+      },
+      {
+        "name":"Giustino Valentino",
+        "roles":[
+          "Accountant"
+        ]
+      },
+      {
+        "name":"Alberto Barberini",
+        "roles":[
+          "Trader"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Sacrofano",
+    "date":1734825600000,
+    "uuid":"664ad3f2-c48d-4a5c-b787-2f9514180cce"
+  },
+  {
+    "people":[
+      {
+        "name":"Irma Garzoni",
+        "roles":[
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Raimondo Malaparte",
+        "roles":[
+          "Sponsor"
+        ]
+      },
+      {
+        "name":"Piergiuseppe Mattarella",
+        "roles":[
+          "Sports Photographer"
+        ]
+      },
+      {
+        "name":"Mirco Muti",
+        "roles":[
+          "Mascot",
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Maurizio Endrizzi",
+        "roles":[
+          "Commentator",
+          "Statistician"
+        ]
+      },
+      {
+        "name":"Sig. Mario Endrizzi",
+        "roles":[
+          "Team Doctor",
+          "Physiotherapist"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Dolegna Del Collio",
+    "date":1724457600000,
+    "uuid":"8c678dc3-9421-4201-8e51-b47d037b7f66"
+  },
+  {
+    "people":[
+      {
+        "name":"Simonetta Tfroisi",
+        "roles":[
+          "Ecologist"
+        ]
+      },
+      {
+        "name":"Costanzo Casaleggio",
+        "roles":[
+          "Wildlife Officer"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Pollution",
+    "place":"Smerillo",
+    "date":1728604800000,
+    "uuid":"91f70d20-1a94-42d9-8436-ed3168604008"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig. Fulvio Abate",
+        "roles":[
+          "Judge",
+          "Lawyer"
+        ]
+      },
+      {
+        "name":"Fiorino Nibali",
+        "roles":[
+          "Drug Dealer",
+          "Suspect"
+        ]
+      },
+      {
+        "name":"Benvenuto Mercati",
+        "roles":[
+          "Thief"
+        ]
+      },
+      {
+        "name":"Sig.ra Rossana Mimun",
+        "roles":[
+          "Police Officer"
+        ]
+      },
+      {
+        "name":"Adelmo Manolesso",
+        "roles":[
+          "Mafia Boss",
+          "Gang Member"
+        ]
+      },
+      {
+        "name":"Morena Mazzini",
+        "roles":[
+          "Victim"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Fraud",
+    "place":"Basiglio",
+    "date":1743552000000,
+    "uuid":"c1d30eb2-5555-40bf-af7f-37e4f9a57f42"
+  },
+  {
+    "people":[
+      {
+        "name":"Erika Foscari",
+        "roles":[
+          "Lab Technician"
+        ]
+      },
+      {
+        "name":"Vincenza Tutino",
+        "roles":[
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Temistocle Fiorucci",
+        "roles":[
+          "Inventor",
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Dott. Elvira Anguissola",
+        "roles":[
+          "Professor"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"San Pietro A Vico",
+    "date":1741219200000,
+    "uuid":"35017add-e5d9-43df-bdf2-5062dd9933d3"
+  },
+  {
+    "people":[
+      {
+        "name":"Gabriele Armani",
+        "roles":[
+          "Climate Specialist"
+        ]
+      },
+      {
+        "name":"Sig. Jacopo Taccola",
+        "roles":[
+          "Conservationist"
+        ]
+      },
+      {
+        "name":"Antonio Carducci",
+        "roles":[
+          "Wildlife Officer"
+        ]
+      },
+      {
+        "name":"Sig.ra Isabella Bova",
+        "roles":[
+          "Scientist",
+          "Ecologist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Pollution",
+    "place":"Salvatronda",
+    "date":1733356800000,
+    "uuid":"960e2c11-249b-4a2d-9a07-625468339783"
+  },
+  {
+    "people":[
+      {
+        "name":"Luciana Sibilia",
+        "roles":[
+          "Developer",
+          "Database Administrator"
+        ]
+      },
+      {
+        "name":"Dott. Patrizia Stein",
+        "roles":[
+          "CTO",
+          "UX Designer"
+        ]
+      },
+      {
+        "name":"Antonietta Esposito",
+        "roles":[
+          "CEO"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Gadgets",
+    "place":"Missanello",
+    "date":1733702400000,
+    "uuid":"278a5986-13e0-48f8-a0b0-b2ee395407b2"
+  },
+  {
+    "people":[
+      {
+        "name":"Paulina Curiel",
+        "roles":[
+          "Data Analyst",
+          "Inventor"
+        ]
+      },
+      {
+        "name":"Sig.ra Eliana Callegaro",
+        "roles":[
+          "Professor"
+        ]
+      },
+      {
+        "name":"Cecilia Pavanello",
+        "roles":[
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Ignazio Raimondi-Pininfarina",
+        "roles":[
+          "Engineer",
+          "Researcher"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Research Discovery",
+    "place":"Grauno",
+    "date":1747180800000,
+    "uuid":"6c447a84-7e58-46d2-ba05-c73b610871e4"
+  },
+  {
+    "people":[
+      {
+        "name":"Enzio Praga",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Sophia Spallanzani",
+        "roles":[
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Roberta Santorio",
+        "roles":[
+          "Mathematician",
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Germana Lippomano",
+        "roles":[
+          "Chemist"
+        ]
+      },
+      {
+        "name":"Sergius Filippelli-Scandone",
+        "roles":[
+          "Biologist"
+        ]
+      },
+      {
+        "name":"Paulina Malaparte",
+        "roles":[
+          "Inventor"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Research Discovery",
+    "place":"Caccuri",
+    "date":1735171200000,
+    "uuid":"5e4ddbfb-0cb6-4c80-b6ac-ee102a684c77"
+  },
+  {
+    "people":[
+      {
+        "name":"Alessia Barracco",
+        "roles":[
+          "Coach"
+        ]
+      },
+      {
+        "name":"Alberico Olivetti",
+        "roles":[
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Rosina Cristoforetti",
+        "roles":[
+          "Athlete",
+          "Trainer"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Torano Castello",
+    "date":1745712000000,
+    "uuid":"95150e46-1382-4f8c-aff9-7dc9d1a12bc9"
+  },
+  {
+    "people":[
+      {
+        "name":"Tiziana Cugia",
+        "roles":[
+          "Nurse"
+        ]
+      },
+      {
+        "name":"Ciro Venditti",
+        "roles":[
+          "Health Administrator"
+        ]
+      },
+      {
+        "name":"Alberico Pizzetti",
+        "roles":[
+          "Surgeon",
+          "Pharmacist"
+        ]
+      },
+      {
+        "name":"Donna Esposito",
+        "roles":[
+          "Doctor",
+          "Therapist"
+        ]
+      },
+      {
+        "name":"Maura Bragadin",
+        "roles":[
+          "Patient",
+          "Volunteer"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Ponte Giurino",
+    "date":1723420800000,
+    "uuid":"ff63ad79-8188-4701-bdab-8430e48edea0"
+  },
+  {
+    "people":[
+      {
+        "name":"Antonina Bazzi",
+        "roles":[
+          "Reporter"
+        ]
+      },
+      {
+        "name":"Sig.ra Paola Gregorio",
+        "roles":[
+          "Witness",
+          "Advocate"
+        ]
+      },
+      {
+        "name":"Gaspare Turrini",
+        "roles":[
+          "Judge",
+          "Court Clerk"
+        ]
+      },
+      {
+        "name":"Stefano Vivaldi",
+        "roles":[
+          "Criminal"
+        ]
+      },
+      {
+        "name":"Zaira Cattaneo",
+        "roles":[
+          "Gang Member",
+          "Thief"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Pinasca",
+    "date":1747094400000,
+    "uuid":"cdd61bc7-d639-4e7b-98e4-6c240237d9ea"
+  },
+  {
+    "people":[
+      {
+        "name":"Jacopo Borsiere",
+        "roles":[
+          "Crime Scene Investigator",
+          "Victim"
+        ]
+      },
+      {
+        "name":"Monica Sonnino",
+        "roles":[
+          "Criminal",
+          "Drug Dealer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Carrosio",
+    "date":1731974400000,
+    "uuid":"5b4f5864-2baa-436d-bcb5-114ccfd907d1"
+  },
+  {
+    "people":[
+      {
+        "name":"Rodolfo Flaiano",
+        "roles":[
+          "Tax Official",
+          "Financial Analyst"
+        ]
+      },
+      {
+        "name":"Luchino Galtarossa-Nordio",
+        "roles":[
+          "Consultant",
+          "Entrepreneur"
+        ]
+      },
+      {
+        "name":"Napoleone Nitto",
+        "roles":[
+          "Regulator"
+        ]
+      },
+      {
+        "name":"Luigina Grasso",
+        "roles":[
+          "Consumer"
+        ]
+      },
+      {
+        "name":"Raffaellino Mennea",
+        "roles":[
+          "Auditor"
+        ]
+      },
+      {
+        "name":"Maria Parpinel",
+        "roles":[
+          "Employee"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Costalissoio",
+    "date":1719187200000,
+    "uuid":"b3467cf8-98b3-4300-9673-dddf33b4c53b"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig. Baccio Tommaseo",
+        "roles":[
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Tiziano Scandone",
+        "roles":[
+          "Health Administrator",
+          "Epidemiologist"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Mental Health",
+    "place":"Viconago",
+    "date":1740528000000,
+    "uuid":"b201979f-31df-4890-b3f3-0ff2a4c1a9e1"
+  },
+  {
+    "people":[
+      {
+        "name":"Gabriele Mengolo-Zetticci",
+        "roles":[
+          "Environmental Engineer",
+          "Activist"
+        ]
+      },
+      {
+        "name":"Romeo Carriera",
+        "roles":[
+          "Journalist",
+          "Conservationist"
+        ]
+      },
+      {
+        "name":"Dino Giacometti",
+        "roles":[
+          "Climate Specialist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Natural Disaster",
+    "place":"Adrano",
+    "date":1744070400000,
+    "uuid":"778abe7e-3d28-4710-931b-f277190db03b"
+  },
+  {
+    "people":[
+      {
+        "name":"Niccolò Finotto",
+        "roles":[
+          "Voter",
+          "Journalist"
+        ]
+      },
+      {
+        "name":"Sig.ra Bianca Combi",
+        "roles":[
+          "Government Official"
+        ]
+      },
+      {
+        "name":"Saverio Casarin",
+        "roles":[
+          "Lobbyist"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Election",
+    "place":"Drizzona",
+    "date":1734134400000,
+    "uuid":"db3ec69a-8637-4704-b681-e4af08b7c2a1"
+  },
+  {
+    "people":[
+      {
+        "name":"Nataidla Perini",
+        "roles":[
+          "Surgeon"
+        ]
+      },
+      {
+        "name":"Dott. Elladio Murri",
+        "roles":[
+          "Volunteer"
+        ]
+      },
+      {
+        "name":"Fedele Carullo",
+        "roles":[
+          "Pharmacist"
+        ]
+      },
+      {
+        "name":"Adele Leblanc",
+        "roles":[
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Vito Maderna",
+        "roles":[
+          "Epidemiologist",
+          "Health Administrator"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Nutrition",
+    "place":"Sperone",
+    "date":1744243200000,
+    "uuid":"358634b1-f2a3-40be-92d9-d9d0d1e2cf5a"
+  },
+  {
+    "people":[
+      {
+        "name":"Lando Piovani",
+        "roles":[
+          "Physiotherapist",
+          "Coach"
+        ]
+      },
+      {
+        "name":"Dina Gulotta",
+        "roles":[
+          "Sports Photographer"
+        ]
+      },
+      {
+        "name":"Stefania Fagiani",
+        "roles":[
+          "Referee",
+          "Sponsor"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Castel Porziano",
+    "date":1736899200000,
+    "uuid":"1ea30ce9-0fc1-4c72-984b-9d893e33b553"
+  },
+  {
+    "people":[
+      {
+        "name":"Sonia Canil",
+        "roles":[
+          "Accountant",
+          "Banker"
+        ]
+      },
+      {
+        "name":"Ansaldo Sbarbaro",
+        "roles":[
+          "Employee",
+          "Consultant"
+        ]
+      },
+      {
+        "name":"Gian Finzi",
+        "roles":[
+          "Regulator",
+          "Tax Official"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Inflation",
+    "place":"Villasimius",
+    "date":1747612800000,
+    "uuid":"229f3a06-0aee-48e2-a769-4c52109caaf8"
+  },
+  {
+    "people":[
+      {
+        "name":"Iolanda Abate",
+        "roles":[
+          "Criminal",
+          "Gang Member"
+        ]
+      },
+      {
+        "name":"Claudio Borromini-Pignatti",
+        "roles":[
+          "Mafia Boss",
+          "Suspect"
+        ]
+      },
+      {
+        "name":"Sig.ra Cassandra Pasqua",
+        "roles":[
+          "Thief"
+        ]
+      },
+      {
+        "name":"Sig. Alderano Zarlino",
+        "roles":[
+          "Crime Scene Investigator"
+        ]
+      },
+      {
+        "name":"Concetta Pizziol-Pederiva",
+        "roles":[
+          "Drug Dealer"
+        ]
+      },
+      {
+        "name":"Sig.ra Luigina Marzorati",
+        "roles":[
+          "Police Officer",
+          "Reporter"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Murder",
+    "place":"Lacchiarella",
+    "date":1735257600000,
+    "uuid":"3f8408c8-62ee-43f7-ac5e-b9b525f09b3d"
+  },
+  {
+    "people":[
+      {
+        "name":"Giada Conti",
+        "roles":[
+          "Gang Member",
+          "Thief"
+        ]
+      },
+      {
+        "name":"Annetta Filippini",
+        "roles":[
+          "Crime Scene Investigator"
+        ]
+      },
+      {
+        "name":"Calcedonio Ramazzotti-Polizzi",
+        "roles":[
+          "Drug Dealer",
+          "Criminal"
+        ]
+      },
+      {
+        "name":"Nino Dallapé",
+        "roles":[
+          "Lawyer"
+        ]
+      },
+      {
+        "name":"Flavia Moccia",
+        "roles":[
+          "Prosecutor"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Drenchia",
+    "date":1734825600000,
+    "uuid":"dfda542f-35f9-4d9d-a919-e242de64f173"
+  },
+  {
+    "people":[
+      {
+        "name":"Nina Beccaria",
+        "roles":[
+          "Tax Official",
+          "Financial Analyst"
+        ]
+      },
+      {
+        "name":"Tonia Manacorda",
+        "roles":[
+          "Regulator"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Villa Littorio",
+    "date":1719619200000,
+    "uuid":"17436e56-03b1-4103-a365-9b71ad26d026"
+  },
+  {
+    "people":[
+      {
+        "name":"Barbara Monicelli",
+        "roles":[
+          "Campaign Manager",
+          "Party Leader"
+        ]
+      },
+      {
+        "name":"Delfino Franceschi",
+        "roles":[
+          "Advisor",
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Evangelista Manacorda",
+        "roles":[
+          "Government Official"
+        ]
+      },
+      {
+        "name":"Greca Udinesi",
+        "roles":[
+          "Politician",
+          "Minister"
+        ]
+      },
+      {
+        "name":"Martina Busoni-Duse",
+        "roles":[
+          "Analyst",
+          "Lobbyist"
+        ]
+      },
+      {
+        "name":"Federica Rapisardi",
+        "roles":[
+          "Voter",
+          "Journalist"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Election",
+    "place":"Milzano",
+    "date":1733788800000,
+    "uuid":"9312d303-d8e7-45ec-9fa1-2436264d2143"
+  },
+  {
+    "people":[
+      {
+        "name":"Damiano Liguori",
+        "roles":[
+          "Sports Photographer"
+        ]
+      },
+      {
+        "name":"Viridiana Santoro-Galtarossa",
+        "roles":[
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Fulvio Majewski",
+        "roles":[
+          "Event Organizer",
+          "Mascot"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Lanzetta",
+    "date":1737072000000,
+    "uuid":"482bc7a5-8244-44a7-837f-862815c41448"
+  },
+  {
+    "people":[
+      {
+        "name":"Matteo Fantini-Guglielmi",
+        "roles":[
+          "Court Clerk",
+          "Bailiff"
+        ]
+      },
+      {
+        "name":"Sig.ra Susanna Santi",
+        "roles":[
+          "Police Officer",
+          "Advocate"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Mercatale Di Cortona",
+    "date":1736985600000,
+    "uuid":"68a42530-5488-4af8-90ef-f3a79e1090f1"
+  },
+  {
+    "people":[
+      {
+        "name":"Adelasia Rapisardi",
+        "roles":[
+          "Advisor"
+        ]
+      },
+      {
+        "name":"Livia Guarato",
+        "roles":[
+          "Consul"
+        ]
+      },
+      {
+        "name":"Dante Cannizzaro",
+        "roles":[
+          "Voter"
+        ]
+      },
+      {
+        "name":"Martino Rossetti",
+        "roles":[
+          "Minister",
+          "Activist"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Policy",
+    "place":"Marega",
+    "date":1744243200000,
+    "uuid":"cb517389-aaa6-414f-b547-ac5ebcd528b3"
+  },
+  {
+    "people":[
+      {
+        "name":"Micheltceto dFavata",
+        "roles":[
+          "Patient"
+        ]
+      },
+      {
+        "name":"Dott. Corrado Respighi",
+        "roles":[
+          "Medical Technician",
+          "Epidemiologist"
+        ]
+      },
+      {
+        "name":"Pina Gagliardi",
+        "roles":[
+          "Mental Health Counselor"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Nebbiuno",
+    "date":1748217600000,
+    "uuid":"98086880-4efc-463e-b894-bf6739f06c5d"
+  },
+  {
+    "people":[
+      {
+        "name":"Evangelista Ferrari-Renzi",
+        "roles":[
+          "Minister",
+          "Party Leader"
+        ]
+      },
+      {
+        "name":"Nicola Dellucci-Barillaro",
+        "roles":[
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Berenice Ferraris",
+        "roles":[
+          "Politician"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Policy",
+    "place":"Botricello",
+    "date":1727395200000,
+    "uuid":"7a9f5fa8-8972-44b6-85c9-7f868621a906"
+  },
+  {
+    "people":[
+      {
+        "name":"Gioffre Lippomano",
+        "roles":[
+          "Ecologist"
+        ]
+      },
+      {
+        "name":"Antonella Semitecolo-Zanzi",
+        "roles":[
+          "Wildlife Officer"
+        ]
+      },
+      {
+        "name":"Luchino Fantini",
+        "roles":[
+          "Activist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Casamassella",
+    "date":1737504000000,
+    "uuid":"fc615d49-11ed-4add-b454-787903ef2152"
+  },
+  {
+    "people":[
+      {
+        "name":"Costanzo Golgi",
+        "roles":[
+          "Security Analyst"
+        ]
+      },
+      {
+        "name":"Gianpaolo Cociarelli",
+        "roles":[
+          "Ethical Hacker"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"AI",
+    "place":"Zambana",
+    "date":1746662400000,
+    "uuid":"55ffcecb-2bda-41f5-b0cb-4790b93124ea"
+  },
+  {
+    "people":[
+      {
+        "name":"Lrucia Mannoia",
+        "roles":[
+          "Banker"
+        ]
+      },
+      {
+        "name":"Vincenzo Casellati",
+        "roles":[
+          "Unemployed",
+          "Auditor"
+        ]
+      },
+      {
+        "name":"Greca Salgari",
+        "roles":[
+          "Consumer",
+          "Consultant"
+        ]
+      },
+      {
+        "name":"Tiziana Ginese",
+        "roles":[
+          "Accountant",
+          "Business Owner"
+        ]
+      },
+      {
+        "name":"Geronimo Bernardi",
+        "roles":[
+          "Investor",
+          "Economist"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Unemployment",
+    "place":"Mezzolago",
+    "date":1727222400000,
+    "uuid":"b4bf6455-1239-45c7-8f40-9733e917ac1c"
+  },
+  {
+    "people":[
+      {
+        "name":"Irma Lerner-Bettin",
+        "roles":[
+          "Consul",
+          "Diplomat"
+        ]
+      },
+      {
+        "name":"Amedeo Sagredo",
+        "roles":[
+          "Politician"
+        ]
+      },
+      {
+        "name":"Sole Pontecorvo",
+        "roles":[
+          "Minister",
+          "Government Official"
+        ]
+      },
+      {
+        "name":"Temistocle Soderini",
+        "roles":[
+          "Ambassador"
+        ]
+      },
+      {
+        "name":"Ronaldo Palmisano-Botticelli",
+        "roles":[
+          "Activist",
+          "Party Leader"
+        ]
+      },
+      {
+        "name":"Stella Interiano",
+        "roles":[
+          "Campaign Manager"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Policy",
+    "place":"Scandolara Ravara",
+    "date":1747267200000,
+    "uuid":"650b5b3f-d9b5-4f1e-9f4c-b852930d9905"
+  },
+  {
+    "people":[
+      {
+        "name":"Gaspare Ferrante",
+        "roles":[
+          "Engineer"
+        ]
+      },
+      {
+        "name":"Stefani Spallanzani",
+        "roles":[
+          "Student",
+          "Postdoctoral Fellow"
+        ]
+      },
+      {
+        "name":"Filippa Manunta",
+        "roles":[
+          "Researcher",
+          "Biologist"
+        ]
+      },
+      {
+        "name":"Dott. Valerio Veneziano",
+        "roles":[
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Luca Siffredi",
+        "roles":[
+          "Chemist"
+        ]
+      },
+      {
+        "name":"Delfino Fiorucci",
+        "roles":[
+          "Inventor"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"San Martino In Freddana",
+    "date":1729555200000,
+    "uuid":"e56aa3cd-d45a-4563-9ef1-331d6b9f526e"
+  },
+  {
+    "people":[
+      {
+        "name":"Melissa Franscini-Camiscione",
+        "roles":[
+          "Analyst",
+          "Journalist"
+        ]
+      },
+      {
+        "name":"Pierina Cianciolo-Stefanelli",
+        "roles":[
+          "Ambassador",
+          "Diplomat"
+        ]
+      },
+      {
+        "name":"Patrizio Tarantini",
+        "roles":[
+          "Lobbyist",
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Paulina Savorgnan",
+        "roles":[
+          "Consul"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Corruption",
+    "place":"Palomonte",
+    "date":1747440000000,
+    "uuid":"85a8fd54-c8de-457c-87ad-aed7f2d7fc38"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig. Laureano Tomasini",
+        "roles":[
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Luciano Trincavelli",
+        "roles":[
+          "Event Organizer",
+          "Mascot"
+        ]
+      },
+      {
+        "name":"Federigo Musatti-Loredan",
+        "roles":[
+          "Sponsor"
+        ]
+      },
+      {
+        "name":"Sig. Simone Carli",
+        "roles":[
+          "Referee"
+        ]
+      },
+      {
+        "name":"Sig.ra Liana Staglieno",
+        "roles":[
+          "Club Owner",
+          "Agent"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Martirano",
+    "date":1725408000000,
+    "uuid":"1050a2b5-b4a5-43db-94c5-16f54dfdd5ee"
+  },
+  {
+    "people":[
+      {
+        "name":"Gemma Germano-Ferrara",
+        "roles":[
+          "Unemployed"
+        ]
+      },
+      {
+        "name":"Eliana Gremese",
+        "roles":[
+          "Employee",
+          "Consultant"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Walte",
+    "date":1739318400000,
+    "uuid":"639d6da9-8095-4eed-812a-200e652e96d1"
+  },
+  {
+    "people":[
+      {
+        "name":"Fabio Battelli",
+        "roles":[
+          "Caregiver",
+          "Patient"
+        ]
+      },
+      {
+        "name":"Fernanda Ferrabosco",
+        "roles":[
+          "Medical Technician",
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Romina Dossi-Tagliafierro",
+        "roles":[
+          "Doctor",
+          "Pharmacist"
+        ]
+      },
+      {
+        "name":"Licia Antonello",
+        "roles":[
+          "Epidemiologist",
+          "Health Administrator"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Ponte Di Serravalle",
+    "date":1746921600000,
+    "uuid":"0142e7ab-2349-4098-9c74-59b01adc53b5"
+  },
+  {
+    "people":[
+      {
+        "name":"Vanessa gColletti",
+        "roles":[
+          "Theatre Technician",
+          "Gallery Owner"
+        ]
+      },
+      {
+        "name":"Mattia Ruffini",
+        "roles":[
+          "Museum Staff"
+        ]
+      },
+      {
+        "name":"Caterina Cagnotto",
+        "roles":[
+          "Festival Organizer"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Lu Muvruneddu",
+    "date":1731369600000,
+    "uuid":"fa63214f-0f16-4ae2-92f0-01bccdf87413"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Giulia iVnaello",
+        "roles":[
+          "Bailiff",
+          "Prison Officer"
+        ]
+      },
+      {
+        "name":"Paulina Geraci",
+        "roles":[
+          "Reporter"
+        ]
+      },
+      {
+        "name":"Loredana Sismondi-Moccia",
+        "roles":[
+          "Forensic Expert",
+          "Prosecutor"
+        ]
+      },
+      {
+        "name":"Greca Pincherle",
+        "roles":[
+          "Suspect"
+        ]
+      },
+      {
+        "name":"Saverio Magrassi",
+        "roles":[
+          "Judge",
+          "Coroner"
+        ]
+      },
+      {
+        "name":"Concetta Ferrazzi",
+        "roles":[
+          "Thief"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Rometta Apuana",
+    "date":1743206400000,
+    "uuid":"64f822b9-6c5c-4b06-bf82-58b2a11ce974"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Atenulf Salata",
+        "roles":[
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Vittorio Pagnotto",
+        "roles":[
+          "Team Doctor"
+        ]
+      },
+      {
+        "name":"Dott. Donatella Nitti",
+        "roles":[
+          "Mascot"
+        ]
+      },
+      {
+        "name":"Raffaellino Piazzi",
+        "roles":[
+          "Sports Journalist",
+          "Fan"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Injury",
+    "place":"Aviano",
+    "date":1720915200000,
+    "uuid":"b23c49c2-cdde-43ba-aa82-f84758a82015"
+  },
+  {
+    "people":[
+      {
+        "name":"Gioachino Aporti",
+        "roles":[
+          "Analyst",
+          "Voter"
+        ]
+      },
+      {
+        "name":"Caterina Raurica",
+        "roles":[
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Fredo Benigni",
+        "roles":[
+          "Government Official"
+        ]
+      },
+      {
+        "name":"Coluccio Nicolucci",
+        "roles":[
+          "Campaign Manager",
+          "Party Leader"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Barbuglio",
+    "date":1748649600000,
+    "uuid":"4568e4c6-636d-4bf6-8604-cad027276486"
+  },
+  {
+    "people":[
+      {
+        "name":"Giancarlto Mennea-Liguori",
+        "roles":[
+          "Field Researcher",
+          "Inventor"
+        ]
+      },
+      {
+        "name":"Letizia Toscanini",
+        "roles":[
+          "Science Communicator",
+          "Postdoctoral Fellow"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"Fanna",
+    "date":1725321600000,
+    "uuid":"bcb8ec42-d975-485f-9089-c60fe3a56dff"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Piersanti Tremonti",
+        "roles":[
+          "Coach",
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Melania Bocca",
+        "roles":[
+          "Sports Photographer"
+        ]
+      },
+      {
+        "name":"Cecilia Savorgnan-Turchi",
+        "roles":[
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Eliana Golgi",
+        "roles":[
+          "Sponsor",
+          "Team Doctor"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Doping",
+    "place":"Raddusa",
+    "date":1723852800000,
+    "uuid":"7e946c6c-de39-4115-86a4-1ac88569608c"
+  },
+  {
+    "people":[
+      {
+        "name":"Bianca Vattimo",
+        "roles":[
+          "Fan"
+        ]
+      },
+      {
+        "name":"Sig.ra Isabella Giammusso",
+        "roles":[
+          "Festival Organizer",
+          "Gallery Owner"
+        ]
+      },
+      {
+        "name":"Ranieri Luria-Cagnotto",
+        "roles":[
+          "Theatre Technician",
+          "Museum Staff"
+        ]
+      },
+      {
+        "name":"Amico Bruscantini",
+        "roles":[
+          "Audience Member"
+        ]
+      },
+      {
+        "name":"Ansaldo Sagnelli-Casale",
+        "roles":[
+          "Cultural Historian"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Agerola",
+    "date":1743206400000,
+    "uuid":"e179f25e-e272-4537-b8e1-cbdafcbc099b"
+  },
+  {
+    "people":[
+      {
+        "name":"Nicoletta Leonardi",
+        "roles":[
+          "Consumer",
+          "Employee"
+        ]
+      },
+      {
+        "name":"Giuseppina Ludovisi",
+        "roles":[
+          "Accountant"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"GDP",
+    "place":"Seborga",
+    "date":1735689600000,
+    "uuid":"9b866f39-5d16-4e0e-81ec-bd505abfd4fa"
+  },
+  {
+    "people":[
+      {
+        "name":"Renata Zaguri",
+        "roles":[
+          "Nurse"
+        ]
+      },
+      {
+        "name":"Luca Ludovisi",
+        "roles":[
+          "Mental Health Counselor",
+          "Patient"
+        ]
+      },
+      {
+        "name":"Gianmarco Ottino",
+        "roles":[
+          "Volunteer"
+        ]
+      },
+      {
+        "name":"Vanessa Zecchini",
+        "roles":[
+          "Doctor",
+          "Researcher"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Palazzo D'Arcevia",
+    "date":1733184000000,
+    "uuid":"98d7b80d-d27d-4b81-8e23-d471c50d8fbc"
+  },
+  {
+    "people":[
+      {
+        "name":"Flavia Bajardi",
+        "roles":[
+          "Nurse",
+          "Therapist"
+        ]
+      },
+      {
+        "name":"Sig. Ippazio Filippelli",
+        "roles":[
+          "Pharmacist"
+        ]
+      },
+      {
+        "name":"Daniele Simeoni",
+        "roles":[
+          "Doctor"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Vaccination",
+    "place":"Lollove",
+    "date":1728259200000,
+    "uuid":"4b53e18d-6e30-4ed7-bc77-65c006c64f36"
+  },
+  {
+    "people":[
+      {
+        "name":"Pier Cignaroli-Stefanelli",
+        "roles":[
+          "Sports Photographer"
+        ]
+      },
+      {
+        "name":"Sonia Tornatore",
+        "roles":[
+          "Physiotherapist",
+          "Sponsor"
+        ]
+      },
+      {
+        "name":"Sig.ra Nicoletta Mastroianni",
+        "roles":[
+          "Fan"
+        ]
+      },
+      {
+        "name":"Melina Mezzetta",
+        "roles":[
+          "Mascot",
+          "Event Organizer"
+        ]
+      },
+      {
+        "name":"Veronica Pavone-Cignaroli",
+        "roles":[
+          "Sports Journalist"
+        ]
+      },
+      {
+        "name":"Dott. Gaspare Caetani",
+        "roles":[
+          "Statistician",
+          "Commentator"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Olympics",
+    "place":"Tarsogno",
+    "date":1728777600000,
+    "uuid":"5110ab66-5eb9-4240-880d-865db882831a"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Annalisa Tosto",
+        "roles":[
+          "Party Leader"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Policy",
+    "place":"Gioia Dei Marsi",
+    "date":1726012800000,
+    "uuid":"cf0927c5-3f8a-40da-883a-9e53aaa06bf5"
+  },
+  {
+    "people":[
+      {
+        "name":"Sig.ra Jolanda Amato",
+        "roles":[
+          "Unemployed"
+        ]
+      },
+      {
+        "name":"Vincentio Fioravanti",
+        "roles":[
+          "Banker"
+        ]
+      },
+      {
+        "name":"Lazzaro Gradenigo",
+        "roles":[
+          "Entrepreneur",
+          "Consumer"
+        ]
+      },
+      {
+        "name":"Nico Ferrucci-Vianello",
+        "roles":[
+          "Employee"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"San Massimo",
+    "date":1733788800000,
+    "uuid":"447ddf24-201f-4071-b2a8-1a51880c8379"
+  },
+  {
+    "people":[
+      {
+        "name":"Cesare Mocenigo",
+        "roles":[
+          "Sports Journalist",
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Gianpietro Curci",
+        "roles":[
+          "Referee"
+        ]
+      },
+      {
+        "name":"Graziano Ariasso",
+        "roles":[
+          "Coach",
+          "Athlete"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"S. Lugano",
+    "date":1736985600000,
+    "uuid":"e9989c98-e4f1-4dbb-9a14-6177a3e01c01"
+  },
+  {
+    "people":[
+      {
+        "name":"Stefani Druso-Inzaghi",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Zaira Micca",
+        "roles":[
+          "Biologist"
+        ]
+      },
+      {
+        "name":"Simone Medici",
+        "roles":[
+          "Field Researcher",
+          "Inventor"
+        ]
+      },
+      {
+        "name":"Giuliana Prati",
+        "roles":[
+          "Science Communicator"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Astronomy",
+    "place":"Mogliano Veneto",
+    "date":1723852800000,
+    "uuid":"70d80892-a6bb-41be-9bbf-929574214534"
+  },
+  {
+    "people":[
+      {
+        "name":"Lidia Catalano",
+        "roles":[
+          "Economist"
+        ]
+      },
+      {
+        "name":"Ezio Panicucci",
+        "roles":[
+          "Consumer",
+          "Entrepreneur"
+        ]
+      },
+      {
+        "name":"Mattia Petrocelli",
+        "roles":[
+          "Auditor",
+          "Unemployed"
+        ]
+      },
+      {
+        "name":"Sig. Salvatore Naccari",
+        "roles":[
+          "Trader"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Molfetta",
+    "date":1720396800000,
+    "uuid":"f74a4812-bd4b-4544-b1f5-6be599b45862"
+  },
+  {
+    "people":[
+      {
+        "name":"Maurilio Solimena",
+        "roles":[
+          "Artist",
+          "Critic"
+        ]
+      },
+      {
+        "name":"Gino Pizzetti",
+        "roles":[
+          "Festival Organizer"
+        ]
+      },
+      {
+        "name":"Griselda Giorgetti",
+        "roles":[
+          "Cultural Historian",
+          "Audience Member"
+        ]
+      },
+      {
+        "name":"Stella Brenna",
+        "roles":[
+          "Fan"
+        ]
+      },
+      {
+        "name":"Vincenzo Falloppio",
+        "roles":[
+          "Spectator"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Jenne",
+    "date":1730851200000,
+    "uuid":"bedc0fda-32f9-49ef-92b8-1439dc1ed1d1"
+  },
+  {
+    "people":[
+      {
+        "name":"Ndaia Anguillara",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Gioffre Pavarotti",
+        "roles":[
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Rodolfo Puccini",
+        "roles":[
+          "Inventor"
+        ]
+      },
+      {
+        "name":"Mirco Foà-Gravina",
+        "roles":[
+          "Chemist"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Biology",
+    "place":"Arborea",
+    "date":1749945600000,
+    "uuid":"3e07eca9-eb60-4d0a-9154-237aaadcf41e"
+  },
+  {
+    "people":[
+      {
+        "name":"Alfredo Duodo-Giannone",
+        "roles":[
+          "Patient"
+        ]
+      },
+      {
+        "name":"Matilda Balotelli",
+        "roles":[
+          "Caregiver"
+        ]
+      },
+      {
+        "name":"Biagio Gilardoni",
+        "roles":[
+          "Pharmacist"
+        ]
+      },
+      {
+        "name":"Alessio Beccheria",
+        "roles":[
+          "Therapist"
+        ]
+      },
+      {
+        "name":"Marcella Favata-Missoni",
+        "roles":[
+          "Medical Technician"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Nutrition",
+    "place":"Vibonati",
+    "date":1738800000000,
+    "uuid":"a5cff071-011b-4fac-bf6a-8f632c8404d6"
+  },
+  {
+    "people":[
+      {
+        "name":"Gilberto Piazzi",
+        "roles":[
+          "Cloud Architect"
+        ]
+      },
+      {
+        "name":"Dott. Camillo Celentano",
+        "roles":[
+          "Systems Administrator",
+          "Developer"
+        ]
+      },
+      {
+        "name":"Liana Panicucci",
+        "roles":[
+          "Ethical Hacker"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Gadgets",
+    "place":"St. Nikolaus\/Kaltern",
+    "date":1731283200000,
+    "uuid":"edd74b87-6db2-451f-b35c-a3953014d689"
+  },
+  {
+    "people":[
+      {
+        "name":"Cecilia Morricone",
+        "roles":[
+          "Employee",
+          "Consumer"
+        ]
+      },
+      {
+        "name":"Anita Vergerio",
+        "roles":[
+          "Economist",
+          "Banker"
+        ]
+      },
+      {
+        "name":"Elvira Rienzo-Pellegrini",
+        "roles":[
+          "Business Owner",
+          "Investor"
+        ]
+      },
+      {
+        "name":"Daria Argurio-Marini",
+        "roles":[
+          "Accountant"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Unemployment",
+    "place":"Ponte A Moriano",
+    "date":1720396800000,
+    "uuid":"a3f9f7ea-c0fc-4eb0-a912-4a1e4ab2991e"
+  },
+  {
+    "people":[
+      {
+        "name":"Rosa Longhena",
+        "roles":[
+          "Environmental Engineer"
+        ]
+      },
+      {
+        "name":"Dott. Gilberto Balbo",
+        "roles":[
+          "Wildlife Officer",
+          "Park Ranger"
+        ]
+      },
+      {
+        "name":"Gelsomina Silvestri-Nadi",
+        "roles":[
+          "Ecologist"
+        ]
+      },
+      {
+        "name":"Tatiana Lamborghini",
+        "roles":[
+          "Volunteer"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Wildlife",
+    "place":"Zerbo",
+    "date":1744502400000,
+    "uuid":"c1bb2fce-f6db-470b-b843-5fc4d757e093"
+  },
+  {
+    "people":[
+      {
+        "name":"Vito Cuda",
+        "roles":[
+          "Data Analyst"
+        ]
+      },
+      {
+        "name":"Sig.ra Elvira Doria",
+        "roles":[
+          "Field Researcher"
+        ]
+      },
+      {
+        "name":"Piero Nolcini-Beffa",
+        "roles":[
+          "Inventor"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Biology",
+    "place":"Gaibola",
+    "date":1734825600000,
+    "uuid":"efb2e874-c721-4f15-a1ec-1b9f896356e4"
+  },
+  {
+    "people":[
+      {
+        "name":"Pierina Fiorucci",
+        "roles":[
+          "Campaign Manager"
+        ]
+      },
+      {
+        "name":"Vittoria Gualtieri",
+        "roles":[
+          "Activist"
+        ]
+      },
+      {
+        "name":"Sig. Adelmo Babbo",
+        "roles":[
+          "Advisor",
+          "Policy Maker"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Belvedere Di Aquileia",
+    "date":1726876800000,
+    "uuid":"bdcf3946-4d39-49e5-82e7-c3090b77f513"
+  },
+  {
+    "people":[
+      {
+        "name":"Rosaila Brorani",
+        "roles":[
+          "Bailiff",
+          "Prison Officer"
+        ]
+      },
+      {
+        "name":"Pierangelo Golgi",
+        "roles":[
+          "Coroner"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Breia",
+    "date":1728864000000,
+    "uuid":"04dce9c3-ba0c-4ce7-85d7-2e83398ab1f8"
+  },
+  {
+    "people":[
+      {
+        "name":"Lolita Pugliese",
+        "roles":[
+          "Crime Scene Investigator"
+        ]
+      },
+      {
+        "name":"Sig. Romeo Navone",
+        "roles":[
+          "Prosecutor"
+        ]
+      },
+      {
+        "name":"Alberto Juvara-Borzomì",
+        "roles":[
+          "Lawyer",
+          "Court Clerk"
+        ]
+      },
+      {
+        "name":"Calogero Tanzini",
+        "roles":[
+          "Detective",
+          "Prison Officer"
+        ]
+      },
+      {
+        "name":"Eva Pizzamano",
+        "roles":[
+          "Mafia Boss"
+        ]
+      },
+      {
+        "name":"Sig. Sante Ferragni",
+        "roles":[
+          "Criminal"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Robbery",
+    "place":"Porpetto",
+    "date":1721606400000,
+    "uuid":"783c9334-348f-420a-be3b-63a6622774f3"
+  },
+  {
+    "people":[
+      {
+        "name":"Marta Sonnino",
+        "roles":[
+          "Cultural Historian"
+        ]
+      },
+      {
+        "name":"Dott. Annibale Montalti",
+        "roles":[
+          "Director",
+          "Critic"
+        ]
+      },
+      {
+        "name":"Alderano Murri-Schicchi",
+        "roles":[
+          "Poet"
+        ]
+      },
+      {
+        "name":"Dott. Agostino Oscuro",
+        "roles":[
+          "Spectator"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Capoponte",
+    "date":1734307200000,
+    "uuid":"7f3a6f54-2d9c-42d5-ac16-9fa1c8999178"
+  },
+  {
+    "people":[
+      {
+        "name":"Licia Dalla-Curiel",
+        "roles":[
+          "Health Administrator",
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Patrizia Borrani",
+        "roles":[
+          "Epidemiologist"
+        ]
+      },
+      {
+        "name":"Corrado Oliboni-Garobbio",
+        "roles":[
+          "Medical Technician"
+        ]
+      },
+      {
+        "name":"Amico Ricolfi-Bosio",
+        "roles":[
+          "Nurse"
+        ]
+      },
+      {
+        "name":"Dolores Finotto",
+        "roles":[
+          "Mental Health Counselor",
+          "Volunteer"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Mental Health",
+    "place":"Virle Treponti",
+    "date":1742428800000,
+    "uuid":"4a3644a6-1ab0-40ef-8b87-962669da3c78"
+  },
+  {
+    "people":[
+      {
+        "name":"Giulia Zola",
+        "roles":[
+          "Ambassador",
+          "Diplomat"
+        ]
+      },
+      {
+        "name":"Luisa Pizzetti",
+        "roles":[
+          "Journalist",
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Melania Lippomano",
+        "roles":[
+          "Consul"
+        ]
+      },
+      {
+        "name":"Marisa Brugnaro",
+        "roles":[
+          "Analyst",
+          "Lobbyist"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Busca",
+    "date":1750118400000,
+    "uuid":"aedf6482-f77d-4b81-8a1e-dbf5b91a8b4a"
+  },
+  {
+    "people":[
+      {
+        "name":"Roman Barbarigo-Jovinelli",
+        "roles":[
+          "Theatre Technician"
+        ]
+      },
+      {
+        "name":"Aria Scamarcio",
+        "roles":[
+          "Director"
+        ]
+      },
+      {
+        "name":"Antonia Vivaldi",
+        "roles":[
+          "Cultural Historian",
+          "Fan"
+        ]
+      },
+      {
+        "name":"Carla Papafava",
+        "roles":[
+          "Spectator",
+          "Audience Member"
+        ]
+      },
+      {
+        "name":"Adele Saracino",
+        "roles":[
+          "Museum Staff"
+        ]
+      },
+      {
+        "name":"Stefano Gucci",
+        "roles":[
+          "Gallery Owner",
+          "Festival Organizer"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Corruption",
+    "place":"Buonconvento",
+    "date":1738800000000,
+    "uuid":"a0b83491-e1fb-4156-aff7-23b52f760ea2"
+  },
+  {
+    "people":[
+      {
+        "name":"Rossana Filogmao",
+        "roles":[
+          "Diplomat",
+          "Ambassador"
+        ]
+      },
+      {
+        "name":"Sole Canevascini",
+        "roles":[
+          "Campaign Manager"
+        ]
+      },
+      {
+        "name":"Telemaco Peano",
+        "roles":[
+          "Voter"
+        ]
+      },
+      {
+        "name":"Teresa Casadei",
+        "roles":[
+          "Advisor",
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Mariano Gozzi",
+        "roles":[
+          "Lobbyist",
+          "Journalist"
+        ]
+      },
+      {
+        "name":"Piersanti Pozzecco",
+        "roles":[
+          "Government Official",
+          "Party Leader"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Testona",
+    "date":1734048000000,
+    "uuid":"44a2d978-6e66-48cb-9001-bb00264e0fa3"
+  },
+  {
+    "people":[
+      {
+        "name":"Germana Duse",
+        "roles":[
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Sig.ra Fernanda Bocelli",
+        "roles":[
+          "Epidemiologist",
+          "Health Administrator"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Anconetta",
+    "date":1743033600000,
+    "uuid":"c81db9e2-65bb-4999-af3e-def603f5aad7"
+  },
+  {
+    "people":[
+      {
+        "name":"Etta Monti-Doglioni",
+        "roles":[
+          "QA Tester",
+          "Technical Writer"
+        ]
+      },
+      {
+        "name":"Claudia Giorgetti",
+        "roles":[
+          "Database Administrator",
+          "Systems Administrator"
+        ]
+      },
+      {
+        "name":"Diana Sgalambro",
+        "roles":[
+          "CEO",
+          "UX Designer"
+        ]
+      },
+      {
+        "name":"Adelasia Pacetti",
+        "roles":[
+          "Cloud Architect",
+          "Ethical Hacker"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Software",
+    "place":"Setteca'",
+    "date":1743897600000,
+    "uuid":"804aac8c-15be-4b47-8297-535a91c5e2db"
+  },
+  {
+    "people":[
+      {
+        "name":"Antonio Zaccagnini",
+        "roles":[
+          "Database Administrator"
+        ]
+      },
+      {
+        "name":"Barbara Federici",
+        "roles":[
+          "Engineer",
+          "Developer"
+        ]
+      },
+      {
+        "name":"Maria Cerquiglini",
+        "roles":[
+          "QA Tester"
+        ]
+      },
+      {
+        "name":"Gioele Nonis",
+        "roles":[
+          "Systems Administrator"
+        ]
+      },
+      {
+        "name":"Bartolomeo Tasso",
+        "roles":[
+          "Hacker",
+          "Network Engineer"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Cinema",
+    "place":"Comiziano",
+    "date":1721520000000,
+    "uuid":"bd192369-e236-4891-9175-3f79c1f72504"
+  },
+  {
+    "people":[
+      {
+        "name":"Priscislla Quasimodo",
+        "roles":[
+          "Paramedic"
+        ]
+      },
+      {
+        "name":"Stefani Golino",
+        "roles":[
+          "Radiologist",
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Vincenza Cannizzaro",
+        "roles":[
+          "Doctor",
+          "Nurse"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Epidemic",
+    "place":"Teis",
+    "date":1719619200000,
+    "uuid":"5dd4ca23-ab17-4948-84ba-49b39f6b39a3"
+  },
+  {
+    "people":[
+      {
+        "name":"Lisa Cerutti",
+        "roles":[
+          "Sports Photographer"
+        ]
+      },
+      {
+        "name":"Sig.ra Stefania Pasqua",
+        "roles":[
+          "Fan",
+          "Sports Journalist"
+        ]
+      },
+      {
+        "name":"Sig.ra Concetta Morandi",
+        "roles":[
+          "Club Owner"
+        ]
+      },
+      {
+        "name":"Alessia Viviani-Soprano",
+        "roles":[
+          "Sponsor",
+          "Athlete"
+        ]
+      },
+      {
+        "name":"Sig.ra Melina Bernardi",
+        "roles":[
+          "Team Doctor",
+          "Trainer"
+        ]
+      },
+      {
+        "name":"Angelica Zacchia",
+        "roles":[
+          "Referee",
+          "Physiotherapist"
+        ]
+      }
+    ],
+    "topic":"Sports",
+    "subtopic":"Football",
+    "place":"Boscone",
+    "date":1735516800000,
+    "uuid":"b39fd260-23ed-4cc2-8b12-29992dbdfbde"
+  },
+  {
+    "people":[
+      {
+        "name":"Mirco Barese-Gozzano",
+        "roles":[
+          "Mafia Boss",
+          "Criminal"
+        ]
+      },
+      {
+        "name":"Allegra Caruso",
+        "roles":[
+          "Witness",
+          "Police Officer"
+        ]
+      }
+    ],
+    "topic":"Crime",
+    "subtopic":"Drug Trafficking",
+    "place":"Pian Di Borno",
+    "date":1730160000000,
+    "uuid":"80667ad1-a5d4-4411-aa56-45362a0b1256"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Loredana Corbo",
+        "roles":[
+          "Trader",
+          "Business Owner"
+        ]
+      }
+    ],
+    "topic":"Economy",
+    "subtopic":"Stock Market",
+    "place":"Ugovizza",
+    "date":1733875200000,
+    "uuid":"17ea89c2-5c3d-445c-b973-5ed32bb7ac3e"
+  },
+  {
+    "people":[
+      {
+        "name":"Ronaldo Buonauro-Fo",
+        "roles":[
+          "Therapist"
+        ]
+      },
+      {
+        "name":"Dott. Bettina Duodo",
+        "roles":[
+          "Radiologist"
+        ]
+      },
+      {
+        "name":"Piergiuseppe Cainero",
+        "roles":[
+          "Nurse"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Nutrition",
+    "place":"La Giustiniana",
+    "date":1725753600000,
+    "uuid":"4a086022-111e-436b-999b-7f29c6a10528"
+  },
+  {
+    "people":[
+      {
+        "name":"Gianna Roth",
+        "roles":[
+          "Park Ranger"
+        ]
+      },
+      {
+        "name":"Graziella Iacovelli",
+        "roles":[
+          "Government Official",
+          "Policy Maker"
+        ]
+      },
+      {
+        "name":"Paulina Leonardi",
+        "roles":[
+          "Climate Specialist",
+          "Wildlife Officer"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Climate Change",
+    "place":"Quintodecimo",
+    "date":1747612800000,
+    "uuid":"c89a0159-7d66-4721-8df6-3db1a29431f9"
+  },
+  {
+    "people":[
+      {
+        "name":"Lucaino Lomborso",
+        "roles":[
+          "Nurse",
+          "Surgeon"
+        ]
+      },
+      {
+        "name":"Piergiorgio Sommaruga",
+        "roles":[
+          "Health Administrator",
+          "Medical Technician"
+        ]
+      }
+    ],
+    "topic":"Health",
+    "subtopic":"Mental Health",
+    "place":"Sezze",
+    "date":1737590400000,
+    "uuid":"4776d960-99c8-4cbf-b9c0-4064eb180287"
+  },
+  {
+    "people":[
+      {
+        "name":"iSdg.ra Aria Grisoni",
+        "roles":[
+          "Gallery Owner",
+          "Festival Organizer"
+        ]
+      },
+      {
+        "name":"Lazzaro Bottigliero-Tomasini",
+        "roles":[
+          "Author",
+          "Director"
+        ]
+      },
+      {
+        "name":"Dario Interminelli",
+        "roles":[
+          "Cultural Historian",
+          "Fan"
+        ]
+      },
+      {
+        "name":"Teresa Pertini",
+        "roles":[
+          "Spectator",
+          "Audience Member"
+        ]
+      },
+      {
+        "name":"Dott. Michele Fogazzaro",
+        "roles":[
+          "Poet"
+        ]
+      },
+      {
+        "name":"Sig. Danilo Soderini",
+        "roles":[
+          "Critic"
+        ]
+      }
+    ],
+    "topic":"Culture",
+    "subtopic":"Art Exhibition",
+    "place":"Rocca Grimalda",
+    "date":1749600000000,
+    "uuid":"9071b0b1-fae7-4d1f-9fb1-fe4b9d3148da"
+  },
+  {
+    "people":[
+      {
+        "name":"Bruno Gaiatto",
+        "roles":[
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Stefania Ferretti",
+        "roles":[
+          "Volunteer"
+        ]
+      },
+      {
+        "name":"Raffaello Polizzi",
+        "roles":[
+          "Wildlife Officer",
+          "Climate Specialist"
+        ]
+      },
+      {
+        "name":"Luisa Pignatti-Santi",
+        "roles":[
+          "Environmental Engineer",
+          "Scientist"
+        ]
+      },
+      {
+        "name":"Barbara Federico",
+        "roles":[
+          "Ecologist"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Climate Change",
+    "place":"Barga",
+    "date":1725926400000,
+    "uuid":"aef1cb78-e33a-4ad5-bad4-d80d87ff9336"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Ermanno Pedroni",
+        "roles":[
+          "Cloud Architect"
+        ]
+      },
+      {
+        "name":"Dott. Angelica Cicilia",
+        "roles":[
+          "DevOps Engineer",
+          "Security Analyst"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Gadgets",
+    "place":"Veniano",
+    "date":1733443200000,
+    "uuid":"a72d5548-ee4f-482c-88a8-668943db7f9e"
+  },
+  {
+    "people":[
+      {
+        "name":"Giacomo Ajello-Sabatini",
+        "roles":[
+          "Journalist",
+          "Advisor"
+        ]
+      },
+      {
+        "name":"Serafina Villarosa",
+        "roles":[
+          "Government Official",
+          "Minister"
+        ]
+      },
+      {
+        "name":"Danilo Fantozzi",
+        "roles":[
+          "Lobbyist",
+          "Voter"
+        ]
+      }
+    ],
+    "topic":"Science",
+    "subtopic":"Corruption",
+    "place":"Pontegrande",
+    "date":1736726400000,
+    "uuid":"62c7c3c0-3885-49ac-9fd7-f2a36c360990"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Eleanora Carpaccio",
+        "roles":[
+          "Government Official"
+        ]
+      },
+      {
+        "name":"Fabrizia Scandone",
+        "roles":[
+          "Consul"
+        ]
+      },
+      {
+        "name":"Romolo Vigorelli",
+        "roles":[
+          "Party Leader",
+          "Politician"
+        ]
+      },
+      {
+        "name":"Annunziata Turchetta",
+        "roles":[
+          "Campaign Manager",
+          "Activist"
+        ]
+      },
+      {
+        "name":"Daria Volta",
+        "roles":[
+          "Advisor",
+          "Policy Maker"
+        ]
+      }
+    ],
+    "topic":"Politics",
+    "subtopic":"Diplomacy",
+    "place":"Aufkirchen",
+    "date":1720137600000,
+    "uuid":"89205081-fff8-4a6a-9d52-ae74af4bf842"
+  },
+  {
+    "people":[
+      {
+        "name":"Dott. Temistocle Valmarana",
+        "roles":[
+          "Park Ranger",
+          "Climate Specialist"
+        ]
+      },
+      {
+        "name":"Giacinto Bonolis",
+        "roles":[
+          "Wildlife Officer"
+        ]
+      },
+      {
+        "name":"Liana Scotto",
+        "roles":[
+          "Volunteer",
+          "Researcher"
+        ]
+      },
+      {
+        "name":"Napoleone Mercalli",
+        "roles":[
+          "Conservationist"
+        ]
+      },
+      {
+        "name":"Pierpaolo Calarco",
+        "roles":[
+          "Government Official",
+          "Policy Maker"
+        ]
+      }
+    ],
+    "topic":"Environment",
+    "subtopic":"Pollution",
+    "place":"Montesilvano Colle",
+    "date":1737072000000,
+    "uuid":"55b3c1bc-7004-4a13-a74f-691a9bb4496f"
+  },
+  {
+    "people":[
+      {
+        "name":"Michelangelo Bembo",
+        "roles":[
+          "Engineer"
+        ]
+      },
+      {
+        "name":"Sante Tamburini",
+        "roles":[
+          "Security Analyst",
+          "DevOps Engineer"
+        ]
+      },
+      {
+        "name":"Sig.ra Antonietta Lerner",
+        "roles":[
+          "Cloud Architect"
+        ]
+      }
+    ],
+    "topic":"Technology",
+    "subtopic":"Cybersecurity",
+    "place":"Pisticci Scalo",
+    "date":1728345600000,
+    "uuid":"30345aa1-7df5-4145-a0a9-21a1ccfbcdf8"
+  }
+]
